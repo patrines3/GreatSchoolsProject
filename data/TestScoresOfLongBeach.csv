@@ -1,0 +1,225 @@
+,school_name,subject_name,subject_score
+0,Prisk Elementary School,Math ,74%
+1,Prisk Elementary School,English ,80%
+2,Prisk Elementary School,Science ,77%
+3,Eunice Sato Academy Of Math & Science,English ,96%
+4,Eunice Sato Academy Of Math & Science,Math ,77%
+5,Eunice Sato Academy Of Math & Science,Science ,60%
+6,Gant Elementary School,Math ,74%
+7,Gant Elementary School,English ,82%
+8,Gant Elementary School,Science ,60%
+9,Henry K-8,English ,65%
+10,Henry K-8,Math ,59%
+11,Henry K-8,Science ,42%
+12,Kettering Elementary School,Math ,73%
+13,Kettering Elementary School,English ,78%
+14,Kettering Elementary School,Science ,60%
+15,Los Cerritos Elementary School,English ,74%
+16,Los Cerritos Elementary School,Math ,65%
+17,Los Cerritos Elementary School,Science ,60%
+18,Naples Elementary School,English ,87%
+19,Naples Elementary School,Math ,79%
+20,Naples Elementary School,Science ,80%
+21,Newcomb Academy,English ,83%
+22,Newcomb Academy,Math ,72%
+23,Newcomb Academy,Science ,63%
+24,Fremont Elementary School,English ,73%
+25,Fremont Elementary School,Math ,66%
+26,Fremont Elementary School,Science ,66%
+27,Tincher Preparatory School,English ,68%
+28,Tincher Preparatory School,Math ,57%
+29,Tincher Preparatory School,Science ,37%
+30,IVA - Intellectual Virtues Academy Middle School,English ,69%
+31,IVA - Intellectual Virtues Academy Middle School,Math ,55%
+32,IVA - Intellectual Virtues Academy Middle School,Science ,57%
+33,Ernest S. McBride Sr. High School,Math ,31%
+34,Ernest S. McBride Sr. High School,English ,73%
+35,Ernest S. McBride Sr. High School,Science ,15%
+36,Helen Keller Middle,English ,68%
+37,Helen Keller Middle,Math ,45%
+38,Helen Keller Middle,Science ,37%
+39,Burcham Elementary School,English ,73%
+40,Burcham Elementary School,Math ,60%
+41,Burcham Elementary School,Science ,40%
+42,Carver Elementary School,Math ,62%
+43,Carver Elementary School,English ,69%
+44,Carver Elementary School,Science ,49%
+45,Cubberley K-8,English ,65%
+46,Cubberley K-8,Math ,52%
+47,Cubberley K-8,Science ,39%
+48,Emerson Parkside Academy,Math ,52%
+49,Emerson Parkside Academy,English ,71%
+50,Emerson Parkside Academy,Science ,50%
+51,Longfellow Elementary School,English ,56%
+52,Longfellow Elementary School,Math ,50%
+53,Longfellow Elementary School,Science ,48%
+54,Lowell Elementary School,English ,67%
+55,Lowell Elementary School,Math ,60%
+56,Lowell Elementary School,Science ,49%
+57,Marshall Academy Of The Arts,English ,65%
+58,Marshall Academy Of The Arts,Math ,47%
+59,Marshall Academy Of The Arts,Science ,34%
+60,Rogers Middle School,English ,71%
+61,Rogers Middle School,Math ,53%
+62,Rogers Middle School,Science ,44%
+63,Addams Elementary School,English ,34%
+64,Addams Elementary School,Math ,27%
+65,Addams Elementary School,Science ,18%
+66,Bancroft Middle School,English ,53%
+67,Bancroft Middle School,Math ,39%
+68,Bancroft Middle School,Science ,29%
+69,Birney Elementary School,English ,48%
+70,Birney Elementary School,Math ,42%
+71,Birney Elementary School,Science ,24%
+72,Bixby Elementary School,Math ,39%
+73,Bixby Elementary School,English ,58%
+74,Bixby Elementary School,Science ,36%
+75,Franklin Classical Middle School,Math ,22%
+76,Franklin Classical Middle School,English ,41%
+77,Franklin Classical Middle School,Science ,15%
+78,Garfield Elementary School,Math ,30%
+79,Garfield Elementary School,English ,39%
+80,Garfield Elementary School,Science ,19%
+81,Hughes Middle School,English ,50%
+82,Hughes Middle School,Math ,38%
+83,Hughes Middle School,Science ,28%
+84,Lincoln Elementary School,Math ,33%
+85,Lincoln Elementary School,English ,41%
+86,Lincoln Elementary School,Science ,24%
+87,Millikan High School,Math ,30%
+88,Millikan High School,English ,55%
+89,Millikan High School,Science ,26%
+90,Stanford Middle School,Math ,48%
+91,Stanford Middle School,English ,60%
+92,Stanford Middle School,Science ,35%
+93,Twain Elementary School,English ,51%
+94,Twain Elementary School,Math ,43%
+95,Twain Elementary School,Science ,45%
+96,Dooley Elementary School,English ,35%
+97,Dooley Elementary School,Math ,30%
+98,Dooley Elementary School,Science ,20%
+99,Bryant Elementary School,English ,40%
+100,Bryant Elementary School,Math ,25%
+101,Bryant Elementary School,Science ,17%
+102,Burbank Elementary School,Math ,27%
+103,Burbank Elementary School,English ,39%
+104,Burbank Elementary School,Science ,22%
+105,Burnett Elementary School,Math ,28%
+106,Burnett Elementary School,English ,36%
+107,Burnett Elementary School,Science ,18%
+108,Edison Elementary School,Math ,20%
+109,Edison Elementary School,English ,29%
+110,Edison Elementary School,Science ,18%
+111,Grant Elementary School,Math ,27%
+112,Grant Elementary School,English ,36%
+113,Grant Elementary School,Science ,18%
+114,Hamilton Middle School,Math ,25%
+115,Hamilton Middle School,English ,38%
+116,Hamilton Middle School,Science ,18%
+117,International Elementary School,Math ,18%
+118,International Elementary School,English ,33%
+119,International Elementary School,Science ,22%
+120,Jefferson Leadership Academies School,Math ,24%
+121,Jefferson Leadership Academies School,English ,47%
+122,Jefferson Leadership Academies School,Science ,16%
+123,Lafayette Elementary School,Math ,29%
+124,Lafayette Elementary School,English ,37%
+125,Lafayette Elementary School,Science ,17%
+126,Lee Elementary School,Math ,23%
+127,Lee Elementary School,English ,42%
+128,Lee Elementary School,Science ,26%
+129,Muir K-8,Math ,30%
+130,Muir K-8,English ,45%
+131,Muir K-8,Science ,18%
+132,Polytechnic High School,English ,48%
+133,Polytechnic High School,Math ,28%
+134,Polytechnic High School,Science ,28%
+135,Robinson Academy,Math ,22%
+136,Robinson Academy,English ,38%
+137,Robinson Academy,Science ,17%
+138,Roosevelt Elementary School,Math ,25%
+139,Roosevelt Elementary School,English ,28%
+140,Roosevelt Elementary School,Science ,20%
+141,Stevenson Elementary School,English ,35%
+142,Stevenson Elementary School,Math ,21%
+143,Stevenson Elementary School,Science ,18%
+144,Wilson High School,English ,58%
+145,Wilson High School,Math ,19%
+146,Wilson High School,Science ,13%
+147,King Elementary School,English ,33%
+148,King Elementary School,Math ,21%
+149,King Elementary School,Science ,18%
+150,Powell Academy For Success,Math ,22%
+151,Powell Academy For Success,English ,34%
+152,Powell Academy For Success,Science ,16%
+153,Chavez Elementary School,Math ,14%
+154,Chavez Elementary School,English ,29%
+155,Chavez Elementary School,Science ,13%
+156,Lindsey Academy,Math ,13%
+157,Lindsey Academy,English ,35%
+158,Lindsey Academy,Science ,10%
+159,Rancho Dominguez Preparatory,English ,41%
+160,Rancho Dominguez Preparatory,Math ,23%
+161,Rancho Dominguez Preparatory,Science ,12%
+162,Harte Elementary School,Math ,25%
+163,Harte Elementary School,English ,32%
+164,Harte Elementary School,Science ,14%
+165,McKinley Elementary School,English ,36%
+166,McKinley Elementary School,Math ,22%
+167,McKinley Elementary School,Science ,18%
+168,Webster Elementary School,Math ,24%
+169,Webster Elementary School,English ,34%
+170,Webster Elementary School,Science ,14%
+171,Willard Elementary School,Math ,25%
+172,Willard Elementary School,English ,28%
+173,Willard Elementary School,Science ,21%
+174,Richard D. Browning High,Math ,6%
+175,Richard D. Browning High,English ,42%
+176,Richard D. Browning High,Science ,7%
+177,Barton Elementary School,English ,23%
+178,Barton Elementary School,Math ,14%
+179,Barton Elementary School,Science ,16%
+180,Hudson K-8,English ,31%
+181,Hudson K-8,Math ,21%
+182,Hudson K-8,Science ,5%
+183,Lindbergh Middle School,English ,32%
+184,Lindbergh Middle School,Math ,13%
+185,Lindbergh Middle School,Science ,9%
+186,Mann Elementary School,Math ,29%
+187,Mann Elementary School,English ,35%
+188,Mann Elementary School,Science ,7%
+189,Stephens Middle School,Math ,15%
+190,Stephens Middle School,English ,26%
+191,Stephens Middle School,Science ,15%
+192,Washington Middle School,Math ,13%
+193,Washington Middle School,English ,29%
+194,Washington Middle School,Science ,5%
+195,Captain Raymond Collins School,English ,25%
+196,Captain Raymond Collins School,Math ,15%
+197,Captain Raymond Collins School,Science ,5%
+198,Cabrillo High School,Math ,9%
+199,Cabrillo High School,English ,38%
+200,Cabrillo High School,Science ,9%
+201,Jordan High School,English ,31%
+202,Jordan High School,Math ,6%
+203,Jordan High School,Science ,7%
+204,Whittier Elementary School,Math ,15%
+205,Whittier Elementary School,English ,17%
+206,Whittier Elementary School,Science ,13%
+207,Intellectual Virtues Academy,Math ,4%
+208,Intellectual Virtues Academy,English ,34%
+209,Intellectual Virtues Academy,Science ,8%
+210,Educational Partnership High School,English ,24%
+211,Educational Partnership High School,Math ,2%
+212,Educational Partnership High School,Science ,12%
+213,Renaissance High School For The Arts,Math ,6%
+214,Renaissance High School For The Arts,English ,33%
+215,Beach High-Intensive Learning Program,English ,47%
+216,Beach High-Intensive Learning Program,Math ,32%
+217,Beach High-Intensive Learning Program,Science ,22%
+218,Reid High School,English ,4%
+219,Reid High School,Math ,<1%
+220,Reid High School,Science ,<1%
+221,The Education Corps,English ,15%
+222,The Education Corps,Math ,<1%
+223,Clear Passage Educational Center,English ,9%

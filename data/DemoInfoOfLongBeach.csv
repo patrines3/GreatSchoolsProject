@@ -1,0 +1,650 @@
+,school_name,race,race_score
+0,Prisk Elementary School,White ,36%
+1,Prisk Elementary School,Hispanic ,29%
+2,Prisk Elementary School,Two or more races ,11%
+3,Prisk Elementary School,Black ,7%
+4,Prisk Elementary School,Asian ,6%
+5,Prisk Elementary School,Filipino ,4%
+6,Prisk Elementary School,Pacific Islander ,1%
+7,Prisk Elementary School,Unspecified ,6%
+8,Eunice Sato Academy Of Math & Science,Hispanic ,32%
+9,Eunice Sato Academy Of Math & Science,White ,23%
+10,Eunice Sato Academy Of Math & Science,Asian ,15%
+11,Eunice Sato Academy Of Math & Science,Filipino ,10%
+12,Eunice Sato Academy Of Math & Science,Black ,7%
+13,Eunice Sato Academy Of Math & Science,Two or more races ,2%
+14,Eunice Sato Academy Of Math & Science,Pacific Islander ,1%
+15,Eunice Sato Academy Of Math & Science,Native American ,<1%
+16,Eunice Sato Academy Of Math & Science,Unspecified ,10%
+17,Gant Elementary School,White ,40%
+18,Gant Elementary School,Hispanic ,27%
+19,Gant Elementary School,Two or more races ,10%
+20,Gant Elementary School,Asian ,9%
+21,Gant Elementary School,Black ,6%
+22,Gant Elementary School,Filipino ,3%
+23,Gant Elementary School,Pacific Islander ,<1%
+24,Gant Elementary School,Native American ,<1%
+25,Gant Elementary School,Unspecified ,5%
+26,Henry K-8,Hispanic ,64%
+27,Henry K-8,White ,19%
+28,Henry K-8,Two or more races ,7%
+29,Henry K-8,Black ,4%
+30,Henry K-8,Asian ,2%
+31,Henry K-8,Filipino ,1%
+32,Henry K-8,Native American ,<1%
+33,Henry K-8,Pacific Islander ,<1%
+34,Henry K-8,Unspecified ,3%
+35,Kettering Elementary School,Hispanic ,34%
+36,Kettering Elementary School,White ,29%
+37,Kettering Elementary School,Two or more races ,12%
+38,Kettering Elementary School,Asian ,10%
+39,Kettering Elementary School,Black ,10%
+40,Kettering Elementary School,Filipino ,1%
+41,Kettering Elementary School,Native American ,<1%
+42,Kettering Elementary School,Unspecified ,4%
+43,Los Cerritos Elementary School,Hispanic ,38%
+44,Los Cerritos Elementary School,Black ,17%
+45,Los Cerritos Elementary School,White ,14%
+46,Los Cerritos Elementary School,Two or more races ,10%
+47,Los Cerritos Elementary School,Filipino ,9%
+48,Los Cerritos Elementary School,Asian ,9%
+49,Los Cerritos Elementary School,Pacific Islander ,1%
+50,Los Cerritos Elementary School,Native American ,<1%
+51,Los Cerritos Elementary School,Unspecified ,2%
+52,Naples Elementary School,White ,57%
+53,Naples Elementary School,Hispanic ,16%
+54,Naples Elementary School,Two or more races ,15%
+55,Naples Elementary School,Asian ,5%
+56,Naples Elementary School,Black ,1%
+57,Naples Elementary School,Filipino ,1%
+58,Naples Elementary School,Unspecified ,5%
+59,Newcomb Academy,White ,36%
+60,Newcomb Academy,Hispanic ,35%
+61,Newcomb Academy,Black ,7%
+62,Newcomb Academy,Two or more races ,7%
+63,Newcomb Academy,Asian ,6%
+64,Newcomb Academy,Filipino ,2%
+65,Newcomb Academy,Pacific Islander ,1%
+66,Newcomb Academy,Native American ,<1%
+67,Newcomb Academy,Unspecified ,6%
+68,Fremont Elementary School,White ,39%
+69,Fremont Elementary School,Hispanic ,30%
+70,Fremont Elementary School,Two or more races ,12%
+71,Fremont Elementary School,Asian ,6%
+72,Fremont Elementary School,Black ,5%
+73,Fremont Elementary School,Filipino ,1%
+74,Fremont Elementary School,Pacific Islander ,<1%
+75,Fremont Elementary School,Native American ,<1%
+76,Fremont Elementary School,Unspecified ,7%
+77,Tincher Preparatory School,Hispanic ,35%
+78,Tincher Preparatory School,White ,31%
+79,Tincher Preparatory School,Asian ,10%
+80,Tincher Preparatory School,Black ,10%
+81,Tincher Preparatory School,Two or more races ,8%
+82,Tincher Preparatory School,Filipino ,2%
+83,Tincher Preparatory School,Pacific Islander ,1%
+84,Tincher Preparatory School,Native American ,<1%
+85,Tincher Preparatory School,Unspecified ,3%
+86,IVA - Intellectual Virtues Academy Middle School,Hispanic ,43%
+87,IVA - Intellectual Virtues Academy Middle School,White ,30%
+88,IVA - Intellectual Virtues Academy Middle School,Black ,10%
+89,IVA - Intellectual Virtues Academy Middle School,Two or more races ,9%
+90,IVA - Intellectual Virtues Academy Middle School,Asian ,5%
+91,IVA - Intellectual Virtues Academy Middle School,Filipino ,2%
+92,IVA - Intellectual Virtues Academy Middle School,Unspecified ,1%
+93,Ernest S. McBride Sr. High School,Hispanic ,45%
+94,Ernest S. McBride Sr. High School,White ,23%
+95,Ernest S. McBride Sr. High School,Black ,8%
+96,Ernest S. McBride Sr. High School,Asian ,8%
+97,Ernest S. McBride Sr. High School,Filipino ,4%
+98,Ernest S. McBride Sr. High School,Two or more races ,3%
+99,Ernest S. McBride Sr. High School,Pacific Islander ,1%
+100,Ernest S. McBride Sr. High School,Native American ,<1%
+101,Ernest S. McBride Sr. High School,Unspecified ,8%
+102,Helen Keller Middle,Hispanic ,73%
+103,Helen Keller Middle,White ,13%
+104,Helen Keller Middle,Black ,4%
+105,Helen Keller Middle,Asian ,3%
+106,Helen Keller Middle,Two or more races ,1%
+107,Helen Keller Middle,Pacific Islander ,1%
+108,Helen Keller Middle,Native American ,1%
+109,Helen Keller Middle,Filipino ,<1%
+110,Helen Keller Middle,Unspecified ,4%
+111,Burcham Elementary School,Hispanic ,42%
+112,Burcham Elementary School,White ,33%
+113,Burcham Elementary School,Two or more races ,9%
+114,Burcham Elementary School,Black ,6%
+115,Burcham Elementary School,Asian ,5%
+116,Burcham Elementary School,Filipino ,2%
+117,Burcham Elementary School,Pacific Islander ,1%
+118,Burcham Elementary School,Native American ,<1%
+119,Burcham Elementary School,Unspecified ,2%
+120,Carver Elementary School,White ,44%
+121,Carver Elementary School,Hispanic ,29%
+122,Carver Elementary School,Two or more races ,12%
+123,Carver Elementary School,Black ,5%
+124,Carver Elementary School,Asian ,4%
+125,Carver Elementary School,Filipino ,3%
+126,Carver Elementary School,Native American ,<1%
+127,Carver Elementary School,Pacific Islander ,<1%
+128,Carver Elementary School,Unspecified ,3%
+129,Cubberley K-8,White ,34%
+130,Cubberley K-8,Hispanic ,34%
+131,Cubberley K-8,Two or more races ,11%
+132,Cubberley K-8,Black ,6%
+133,Cubberley K-8,Asian ,6%
+134,Cubberley K-8,Filipino ,2%
+135,Cubberley K-8,Pacific Islander ,1%
+136,Cubberley K-8,Native American ,<1%
+137,Cubberley K-8,Unspecified ,6%
+138,Emerson Parkside Academy,White ,44%
+139,Emerson Parkside Academy,Hispanic ,32%
+140,Emerson Parkside Academy,Two or more races ,6%
+141,Emerson Parkside Academy,Asian ,5%
+142,Emerson Parkside Academy,Black ,5%
+143,Emerson Parkside Academy,Filipino ,3%
+144,Emerson Parkside Academy,Pacific Islander ,<1%
+145,Emerson Parkside Academy,Unspecified ,5%
+146,Longfellow Elementary School,Hispanic ,37%
+147,Longfellow Elementary School,White ,16%
+148,Longfellow Elementary School,Black ,15%
+149,Longfellow Elementary School,Two or more races ,12%
+150,Longfellow Elementary School,Asian ,11%
+151,Longfellow Elementary School,Filipino ,4%
+152,Longfellow Elementary School,Pacific Islander ,2%
+153,Longfellow Elementary School,Native American ,<1%
+154,Longfellow Elementary School,Unspecified ,3%
+155,Lowell Elementary School,White ,59%
+156,Lowell Elementary School,Hispanic ,21%
+157,Lowell Elementary School,Two or more races ,7%
+158,Lowell Elementary School,Black ,3%
+159,Lowell Elementary School,Asian ,3%
+160,Lowell Elementary School,Filipino ,2%
+161,Lowell Elementary School,Native American ,1%
+162,Lowell Elementary School,Pacific Islander ,<1%
+163,Lowell Elementary School,Unspecified ,4%
+164,Marshall Academy Of The Arts,Hispanic ,46%
+165,Marshall Academy Of The Arts,White ,28%
+166,Marshall Academy Of The Arts,Black ,10%
+167,Marshall Academy Of The Arts,Asian ,4%
+168,Marshall Academy Of The Arts,Two or more races ,4%
+169,Marshall Academy Of The Arts,Filipino ,1%
+170,Marshall Academy Of The Arts,Pacific Islander ,1%
+171,Marshall Academy Of The Arts,Native American ,<1%
+172,Marshall Academy Of The Arts,Unspecified ,6%
+173,Rogers Middle School,White ,50%
+174,Rogers Middle School,Hispanic ,24%
+175,Rogers Middle School,Asian ,7%
+176,Rogers Middle School,Two or more races ,7%
+177,Rogers Middle School,Black ,5%
+178,Rogers Middle School,Pacific Islander ,1%
+179,Rogers Middle School,Native American ,<1%
+180,Rogers Middle School,Filipino ,<1%
+181,Rogers Middle School,Unspecified ,6%
+182,Addams Elementary School,Hispanic ,74%
+183,Addams Elementary School,Black ,15%
+184,Addams Elementary School,Asian ,5%
+185,Addams Elementary School,Two or more races ,2%
+186,Addams Elementary School,Pacific Islander ,1%
+187,Addams Elementary School,White ,1%
+188,Addams Elementary School,Filipino ,1%
+189,Addams Elementary School,Native American ,<1%
+190,Addams Elementary School,Unspecified ,1%
+191,Bancroft Middle School,Hispanic ,47%
+192,Bancroft Middle School,White ,21%
+193,Bancroft Middle School,Black ,12%
+194,Bancroft Middle School,Asian ,9%
+195,Bancroft Middle School,Two or more races ,4%
+196,Bancroft Middle School,Filipino ,2%
+197,Bancroft Middle School,Pacific Islander ,2%
+198,Bancroft Middle School,Native American ,<1%
+199,Bancroft Middle School,Unspecified ,3%
+200,Birney Elementary School,Hispanic ,50%
+201,Birney Elementary School,Black ,20%
+202,Birney Elementary School,Filipino ,11%
+203,Birney Elementary School,Asian ,8%
+204,Birney Elementary School,Two or more races ,3%
+205,Birney Elementary School,Pacific Islander ,3%
+206,Birney Elementary School,White ,2%
+207,Birney Elementary School,Unspecified ,3%
+208,Bixby Elementary School,Hispanic ,41%
+209,Bixby Elementary School,White ,21%
+210,Bixby Elementary School,Black ,10%
+211,Bixby Elementary School,Asian ,9%
+212,Bixby Elementary School,Two or more races ,9%
+213,Bixby Elementary School,Filipino ,4%
+214,Bixby Elementary School,Pacific Islander ,2%
+215,Bixby Elementary School,Native American ,<1%
+216,Bixby Elementary School,Unspecified ,4%
+217,Franklin Classical Middle School,Hispanic ,77%
+218,Franklin Classical Middle School,Black ,10%
+219,Franklin Classical Middle School,Asian ,9%
+220,Franklin Classical Middle School,White ,2%
+221,Franklin Classical Middle School,Two or more races ,1%
+222,Franklin Classical Middle School,Pacific Islander ,<1%
+223,Franklin Classical Middle School,Filipino ,<1%
+224,Franklin Classical Middle School,Native American ,<1%
+225,Franklin Classical Middle School,Unspecified ,1%
+226,Garfield Elementary School,Hispanic ,76%
+227,Garfield Elementary School,Filipino ,9%
+228,Garfield Elementary School,Black ,9%
+229,Garfield Elementary School,Asian ,3%
+230,Garfield Elementary School,Two or more races ,1%
+231,Garfield Elementary School,Pacific Islander ,1%
+232,Garfield Elementary School,White ,<1%
+233,Garfield Elementary School,Unspecified ,1%
+234,Hughes Middle School,Hispanic ,45%
+235,Hughes Middle School,Black ,19%
+236,Hughes Middle School,Asian ,12%
+237,Hughes Middle School,White ,9%
+238,Hughes Middle School,Filipino ,6%
+239,Hughes Middle School,Two or more races ,4%
+240,Hughes Middle School,Pacific Islander ,2%
+241,Hughes Middle School,Native American ,<1%
+242,Hughes Middle School,Unspecified ,3%
+243,Lincoln Elementary School,Hispanic ,80%
+244,Lincoln Elementary School,Asian ,9%
+245,Lincoln Elementary School,Black ,8%
+246,Lincoln Elementary School,Two or more races ,1%
+247,Lincoln Elementary School,White ,1%
+248,Lincoln Elementary School,Filipino ,<1%
+249,Lincoln Elementary School,Native American ,<1%
+250,Lincoln Elementary School,Pacific Islander ,<1%
+251,Lincoln Elementary School,Unspecified ,1%
+252,Millikan High School,Hispanic ,45%
+253,Millikan High School,White ,31%
+254,Millikan High School,Black ,9%
+255,Millikan High School,Asian ,5%
+256,Millikan High School,Filipino ,3%
+257,Millikan High School,Two or more races ,2%
+258,Millikan High School,Pacific Islander ,1%
+259,Millikan High School,Native American ,<1%
+260,Millikan High School,Unspecified ,4%
+261,Stanford Middle School,Hispanic ,38%
+262,Stanford Middle School,White ,30%
+263,Stanford Middle School,Black ,8%
+264,Stanford Middle School,Asian ,7%
+265,Stanford Middle School,Two or more races ,5%
+266,Stanford Middle School,Filipino ,3%
+267,Stanford Middle School,Pacific Islander ,1%
+268,Stanford Middle School,Native American ,<1%
+269,Stanford Middle School,Unspecified ,8%
+270,Twain Elementary School,Hispanic ,43%
+271,Twain Elementary School,White ,16%
+272,Twain Elementary School,Black ,14%
+273,Twain Elementary School,Asian ,11%
+274,Twain Elementary School,Two or more races ,9%
+275,Twain Elementary School,Filipino ,4%
+276,Twain Elementary School,Pacific Islander ,1%
+277,Twain Elementary School,Unspecified ,2%
+278,Dooley Elementary School,Hispanic ,71%
+279,Dooley Elementary School,Black ,17%
+280,Dooley Elementary School,Filipino ,3%
+281,Dooley Elementary School,Asian ,2%
+282,Dooley Elementary School,Pacific Islander ,2%
+283,Dooley Elementary School,Two or more races ,2%
+284,Dooley Elementary School,White ,1%
+285,Dooley Elementary School,Unspecified ,2%
+286,Bryant Elementary School,Hispanic ,58%
+287,Bryant Elementary School,Black ,14%
+288,Bryant Elementary School,Asian ,8%
+289,Bryant Elementary School,White ,8%
+290,Bryant Elementary School,Two or more races ,6%
+291,Bryant Elementary School,Pacific Islander ,2%
+292,Bryant Elementary School,Filipino ,1%
+293,Bryant Elementary School,Native American ,1%
+294,Bryant Elementary School,Unspecified ,2%
+295,Burbank Elementary School,Hispanic ,71%
+296,Burbank Elementary School,Black ,12%
+297,Burbank Elementary School,White ,6%
+298,Burbank Elementary School,Asian ,4%
+299,Burbank Elementary School,Two or more races ,4%
+300,Burbank Elementary School,Pacific Islander ,1%
+301,Burbank Elementary School,Filipino ,<1%
+302,Burbank Elementary School,Unspecified ,2%
+303,Burnett Elementary School,Hispanic ,73%
+304,Burnett Elementary School,Asian ,13%
+305,Burnett Elementary School,Black ,8%
+306,Burnett Elementary School,Filipino ,2%
+307,Burnett Elementary School,Two or more races ,2%
+308,Burnett Elementary School,White ,<1%
+309,Burnett Elementary School,Pacific Islander ,<1%
+310,Burnett Elementary School,Unspecified ,2%
+311,Edison Elementary School,Hispanic ,85%
+312,Edison Elementary School,Black ,10%
+313,Edison Elementary School,Two or more races ,2%
+314,Edison Elementary School,White ,2%
+315,Edison Elementary School,Asian ,1%
+316,Edison Elementary School,Pacific Islander ,<1%
+317,Edison Elementary School,Native American ,<1%
+318,Grant Elementary School,Hispanic ,76%
+319,Grant Elementary School,Black ,9%
+320,Grant Elementary School,Asian ,7%
+321,Grant Elementary School,White ,2%
+322,Grant Elementary School,Pacific Islander ,2%
+323,Grant Elementary School,Two or more races ,2%
+324,Grant Elementary School,Filipino ,1%
+325,Grant Elementary School,Native American ,<1%
+326,Grant Elementary School,Unspecified ,1%
+327,Hamilton Middle School,Hispanic ,80%
+328,Hamilton Middle School,Black ,10%
+329,Hamilton Middle School,Asian ,3%
+330,Hamilton Middle School,Pacific Islander ,2%
+331,Hamilton Middle School,White ,1%
+332,Hamilton Middle School,Filipino ,1%
+333,Hamilton Middle School,Two or more races ,1%
+334,Hamilton Middle School,Native American ,<1%
+335,Hamilton Middle School,Unspecified ,2%
+336,International Elementary School,Hispanic ,82%
+337,International Elementary School,Black ,10%
+338,International Elementary School,Asian ,4%
+339,International Elementary School,White ,1%
+340,International Elementary School,Two or more races ,1%
+341,International Elementary School,Filipino ,1%
+342,International Elementary School,Pacific Islander ,1%
+343,International Elementary School,Native American ,<1%
+344,Jefferson Leadership Academies School,Hispanic ,66%
+345,Jefferson Leadership Academies School,Black ,17%
+346,Jefferson Leadership Academies School,Asian ,9%
+347,Jefferson Leadership Academies School,White ,4%
+348,Jefferson Leadership Academies School,Two or more races ,2%
+349,Jefferson Leadership Academies School,Pacific Islander ,<1%
+350,Jefferson Leadership Academies School,Filipino ,<1%
+351,Jefferson Leadership Academies School,Native American ,<1%
+352,Jefferson Leadership Academies School,Unspecified ,2%
+353,Lafayette Elementary School,Hispanic ,77%
+354,Lafayette Elementary School,Black ,13%
+355,Lafayette Elementary School,Asian ,3%
+356,Lafayette Elementary School,Two or more races ,2%
+357,Lafayette Elementary School,White ,2%
+358,Lafayette Elementary School,Filipino ,1%
+359,Lafayette Elementary School,Pacific Islander ,1%
+360,Lafayette Elementary School,Native American ,<1%
+361,Lafayette Elementary School,Unspecified ,1%
+362,Lee Elementary School,Hispanic ,70%
+363,Lee Elementary School,Asian ,12%
+364,Lee Elementary School,Black ,11%
+365,Lee Elementary School,Two or more races ,3%
+366,Lee Elementary School,White ,1%
+367,Lee Elementary School,Filipino ,1%
+368,Lee Elementary School,Native American ,<1%
+369,Lee Elementary School,Pacific Islander ,<1%
+370,Lee Elementary School,Unspecified ,2%
+371,Muir K-8,Hispanic ,65%
+372,Muir K-8,Black ,12%
+373,Muir K-8,Filipino ,11%
+374,Muir K-8,Asian ,4%
+375,Muir K-8,Pacific Islander ,3%
+376,Muir K-8,Two or more races ,3%
+377,Muir K-8,White ,1%
+378,Muir K-8,Unspecified ,1%
+379,Polytechnic High School,Hispanic ,48%
+380,Polytechnic High School,Asian ,17%
+381,Polytechnic High School,Black ,16%
+382,Polytechnic High School,White ,9%
+383,Polytechnic High School,Filipino ,5%
+384,Polytechnic High School,Two or more races ,1%
+385,Polytechnic High School,Pacific Islander ,1%
+386,Polytechnic High School,Native American ,<1%
+387,Polytechnic High School,Unspecified ,3%
+388,Robinson Academy,Hispanic ,73%
+389,Robinson Academy,Black ,17%
+390,Robinson Academy,Asian ,2%
+391,Robinson Academy,Two or more races ,2%
+392,Robinson Academy,Filipino ,2%
+393,Robinson Academy,Pacific Islander ,2%
+394,Robinson Academy,White ,1%
+395,Robinson Academy,Unspecified ,1%
+396,Roosevelt Elementary School,Hispanic ,83%
+397,Roosevelt Elementary School,Black ,8%
+398,Roosevelt Elementary School,Asian ,6%
+399,Roosevelt Elementary School,Two or more races ,1%
+400,Roosevelt Elementary School,Pacific Islander ,1%
+401,Roosevelt Elementary School,White ,<1%
+402,Roosevelt Elementary School,Filipino ,<1%
+403,Roosevelt Elementary School,Unspecified ,1%
+404,Stevenson Elementary School,Hispanic ,73%
+405,Stevenson Elementary School,Black ,18%
+406,Stevenson Elementary School,White ,4%
+407,Stevenson Elementary School,Two or more races ,2%
+408,Stevenson Elementary School,Asian ,2%
+409,Stevenson Elementary School,Filipino ,1%
+410,Stevenson Elementary School,Native American ,<1%
+411,Stevenson Elementary School,Pacific Islander ,<1%
+412,Wilson High School,Hispanic ,55%
+413,Wilson High School,White ,18%
+414,Wilson High School,Black ,11%
+415,Wilson High School,Asian ,8%
+416,Wilson High School,Two or more races ,2%
+417,Wilson High School,Filipino ,2%
+418,Wilson High School,Pacific Islander ,1%
+419,Wilson High School,Native American ,<1%
+420,Wilson High School,Unspecified ,3%
+421,King Elementary School,Hispanic ,85%
+422,King Elementary School,Black ,9%
+423,King Elementary School,Two or more races ,1%
+424,King Elementary School,Asian ,1%
+425,King Elementary School,Pacific Islander ,1%
+426,King Elementary School,White ,1%
+427,King Elementary School,Filipino ,1%
+428,King Elementary School,Unspecified ,1%
+429,Powell Academy For Success,Hispanic ,68%
+430,Powell Academy For Success,Black ,22%
+431,Powell Academy For Success,Pacific Islander ,4%
+432,Powell Academy For Success,Asian ,3%
+433,Powell Academy For Success,Two or more races ,2%
+434,Powell Academy For Success,Filipino ,1%
+435,Powell Academy For Success,White ,<1%
+436,Powell Academy For Success,Native American ,<1%
+437,Chavez Elementary School,Hispanic ,66%
+438,Chavez Elementary School,Black ,19%
+439,Chavez Elementary School,Two or more races ,4%
+440,Chavez Elementary School,Asian ,4%
+441,Chavez Elementary School,White ,3%
+442,Chavez Elementary School,Filipino ,1%
+443,Chavez Elementary School,Native American ,<1%
+444,Chavez Elementary School,Pacific Islander ,<1%
+445,Chavez Elementary School,Unspecified ,3%
+446,Lindsey Academy,Hispanic ,77%
+447,Lindsey Academy,Black ,13%
+448,Lindsey Academy,Asian ,3%
+449,Lindsey Academy,Pacific Islander ,2%
+450,Lindsey Academy,Filipino ,2%
+451,Lindsey Academy,Two or more races ,1%
+452,Lindsey Academy,White ,1%
+453,Lindsey Academy,Native American ,<1%
+454,Lindsey Academy,Unspecified ,1%
+455,Rancho Dominguez Preparatory,Hispanic ,67%
+456,Rancho Dominguez Preparatory,Black ,21%
+457,Rancho Dominguez Preparatory,Filipino ,4%
+458,Rancho Dominguez Preparatory,Asian ,3%
+459,Rancho Dominguez Preparatory,White ,3%
+460,Rancho Dominguez Preparatory,Pacific Islander ,3%
+461,Rancho Dominguez Preparatory,Native American ,<1%
+462,Harte Elementary School,Hispanic ,67%
+463,Harte Elementary School,Black ,15%
+464,Harte Elementary School,Asian ,9%
+465,Harte Elementary School,Two or more races ,3%
+466,Harte Elementary School,Pacific Islander ,2%
+467,Harte Elementary School,White ,2%
+468,Harte Elementary School,Filipino ,2%
+469,Harte Elementary School,Native American ,<1%
+470,McKinley Elementary School,Hispanic ,72%
+471,McKinley Elementary School,Black ,15%
+472,McKinley Elementary School,Asian ,6%
+473,McKinley Elementary School,White ,3%
+474,McKinley Elementary School,Pacific Islander ,2%
+475,McKinley Elementary School,Two or more races ,1%
+476,McKinley Elementary School,Filipino ,<1%
+477,McKinley Elementary School,Unspecified ,1%
+478,Webster Elementary School,Hispanic ,61%
+479,Webster Elementary School,Black ,21%
+480,Webster Elementary School,Filipino ,6%
+481,Webster Elementary School,Pacific Islander ,4%
+482,Webster Elementary School,Two or more races ,3%
+483,Webster Elementary School,Asian ,2%
+484,Webster Elementary School,White ,1%
+485,Webster Elementary School,Native American ,1%
+486,Webster Elementary School,Unspecified ,1%
+487,Willard Elementary School,Hispanic ,69%
+488,Willard Elementary School,Black ,11%
+489,Willard Elementary School,Asian ,10%
+490,Willard Elementary School,White ,3%
+491,Willard Elementary School,Two or more races ,3%
+492,Willard Elementary School,Native American ,1%
+493,Willard Elementary School,Pacific Islander ,<1%
+494,Willard Elementary School,Filipino ,<1%
+495,Willard Elementary School,Unspecified ,3%
+496,Richard D. Browning High,Hispanic ,61%
+497,Richard D. Browning High,Black ,18%
+498,Richard D. Browning High,Asian ,8%
+499,Richard D. Browning High,White ,6%
+500,Richard D. Browning High,Two or more races ,2%
+501,Richard D. Browning High,Filipino ,1%
+502,Richard D. Browning High,Pacific Islander ,1%
+503,Richard D. Browning High,Native American ,1%
+504,Richard D. Browning High,Unspecified ,2%
+505,Barton Elementary School,Hispanic ,54%
+506,Barton Elementary School,Black ,28%
+507,Barton Elementary School,Asian ,6%
+508,Barton Elementary School,Filipino ,3%
+509,Barton Elementary School,Two or more races ,3%
+510,Barton Elementary School,White ,3%
+511,Barton Elementary School,Pacific Islander ,2%
+512,Barton Elementary School,Native American ,<1%
+513,Barton Elementary School,Unspecified ,1%
+514,Hudson K-8,Hispanic ,49%
+515,Hudson K-8,Filipino ,21%
+516,Hudson K-8,Black ,18%
+517,Hudson K-8,Pacific Islander ,3%
+518,Hudson K-8,Two or more races ,3%
+519,Hudson K-8,Asian ,3%
+520,Hudson K-8,White ,1%
+521,Hudson K-8,Native American ,<1%
+522,Hudson K-8,Unspecified ,2%
+523,Lindbergh Middle School,Hispanic ,61%
+524,Lindbergh Middle School,Black ,22%
+525,Lindbergh Middle School,Asian ,6%
+526,Lindbergh Middle School,Pacific Islander ,4%
+527,Lindbergh Middle School,White ,2%
+528,Lindbergh Middle School,Filipino ,2%
+529,Lindbergh Middle School,Two or more races ,<1%
+530,Lindbergh Middle School,Native American ,<1%
+531,Lindbergh Middle School,Unspecified ,3%
+532,Mann Elementary School,Hispanic ,55%
+533,Mann Elementary School,Black ,21%
+534,Mann Elementary School,White ,11%
+535,Mann Elementary School,Two or more races ,5%
+536,Mann Elementary School,Asian ,4%
+537,Mann Elementary School,Pacific Islander ,1%
+538,Mann Elementary School,Filipino ,1%
+539,Mann Elementary School,Unspecified ,2%
+540,Stephens Middle School,Hispanic ,67%
+541,Stephens Middle School,Black ,12%
+542,Stephens Middle School,Filipino ,12%
+543,Stephens Middle School,Pacific Islander ,3%
+544,Stephens Middle School,Asian ,3%
+545,Stephens Middle School,White ,1%
+546,Stephens Middle School,Two or more races ,1%
+547,Stephens Middle School,Unspecified ,1%
+548,Washington Middle School,Hispanic ,84%
+549,Washington Middle School,Black ,9%
+550,Washington Middle School,Asian ,2%
+551,Washington Middle School,White ,1%
+552,Washington Middle School,Two or more races ,1%
+553,Washington Middle School,Filipino ,1%
+554,Washington Middle School,Pacific Islander ,<1%
+555,Washington Middle School,Native American ,<1%
+556,Washington Middle School,Unspecified ,2%
+557,Captain Raymond Collins School,Hispanic ,53%
+558,Captain Raymond Collins School,Black ,37%
+559,Captain Raymond Collins School,Two or more races ,3%
+560,Captain Raymond Collins School,Asian ,3%
+561,Captain Raymond Collins School,White ,2%
+562,Captain Raymond Collins School,Filipino ,1%
+563,Captain Raymond Collins School,Pacific Islander ,1%
+564,Cabrillo High School,Hispanic ,72%
+565,Cabrillo High School,Black ,11%
+566,Cabrillo High School,Filipino ,9%
+567,Cabrillo High School,Asian ,3%
+568,Cabrillo High School,Pacific Islander ,2%
+569,Cabrillo High School,White ,1%
+570,Cabrillo High School,Two or more races ,1%
+571,Cabrillo High School,Native American ,<1%
+572,Cabrillo High School,Unspecified ,1%
+573,Jordan High School,Hispanic ,76%
+574,Jordan High School,Black ,15%
+575,Jordan High School,Asian ,4%
+576,Jordan High School,Pacific Islander ,2%
+577,Jordan High School,White ,1%
+578,Jordan High School,Filipino ,1%
+579,Jordan High School,Two or more races ,<1%
+580,Jordan High School,Native American ,<1%
+581,Jordan High School,Unspecified ,1%
+582,Whittier Elementary School,Hispanic ,70%
+583,Whittier Elementary School,Asian ,16%
+584,Whittier Elementary School,Black ,10%
+585,Whittier Elementary School,Two or more races ,2%
+586,Whittier Elementary School,White ,1%
+587,Whittier Elementary School,Filipino ,<1%
+588,Whittier Elementary School,Pacific Islander ,<1%
+589,Whittier Elementary School,Unspecified ,1%
+590,Intellectual Virtues Academy,Hispanic ,55%
+591,Intellectual Virtues Academy,Black ,21%
+592,Intellectual Virtues Academy,White ,12%
+593,Intellectual Virtues Academy,Two or more races ,5%
+594,Intellectual Virtues Academy,Filipino ,3%
+595,Intellectual Virtues Academy,Asian ,3%
+596,Intellectual Virtues Academy,Pacific Islander ,1%
+597,Educational Partnership High School,Hispanic ,67%
+598,Educational Partnership High School,Black ,17%
+599,Educational Partnership High School,White ,9%
+600,Educational Partnership High School,Asian ,3%
+601,Educational Partnership High School,Pacific Islander ,2%
+602,Educational Partnership High School,Two or more races ,1%
+603,Educational Partnership High School,Filipino ,<1%
+604,Educational Partnership High School,Native American ,<1%
+605,Educational Partnership High School,Unspecified ,1%
+606,Renaissance High School For The Arts,Hispanic ,49%
+607,Renaissance High School For The Arts,Black ,21%
+608,Renaissance High School For The Arts,White ,14%
+609,Renaissance High School For The Arts,Asian ,3%
+610,Renaissance High School For The Arts,Filipino ,3%
+611,Renaissance High School For The Arts,Two or more races ,2%
+612,Renaissance High School For The Arts,Pacific Islander ,<1%
+613,Renaissance High School For The Arts,Native American ,<1%
+614,Renaissance High School For The Arts,Unspecified ,8%
+615,Select Community Day (Secondary) School,Hispanic ,50%
+616,Select Community Day (Secondary) School,Black ,25%
+617,Select Community Day (Secondary) School,White ,13%
+618,Select Community Day (Secondary) School,Two or more races ,13%
+619,Beach High-Intensive Learning Program,Hispanic ,68%
+620,Beach High-Intensive Learning Program,Black ,15%
+621,Beach High-Intensive Learning Program,White ,6%
+622,Beach High-Intensive Learning Program,Asian ,3%
+623,Beach High-Intensive Learning Program,Filipino ,3%
+624,Beach High-Intensive Learning Program,Pacific Islander ,1%
+625,Beach High-Intensive Learning Program,Two or more races ,1%
+626,Beach High-Intensive Learning Program,Unspecified ,3%
+627,Reid High School,Hispanic ,72%
+628,Reid High School,Black ,17%
+629,Reid High School,Filipino ,3%
+630,Reid High School,Pacific Islander ,2%
+631,Reid High School,Two or more races ,1%
+632,Reid High School,White ,1%
+633,Reid High School,Asian ,1%
+634,Reid High School,Native American ,<1%
+635,Reid High School,Unspecified ,3%
+636,The Education Corps,Hispanic ,86%
+637,The Education Corps,Black ,10%
+638,The Education Corps,Two or more races ,1%
+639,The Education Corps,Asian ,<1%
+640,The Education Corps,Native American ,<1%
+641,The Education Corps,Unspecified ,3%
+642,Clear Passage Educational Center,Hispanic ,62%
+643,Clear Passage Educational Center,Asian ,13%
+644,Clear Passage Educational Center,Black ,13%
+645,Clear Passage Educational Center,Two or more races ,5%
+646,Clear Passage Educational Center,White ,4%
+647,Clear Passage Educational Center,Pacific Islander ,2%
+648,Clear Passage Educational Center,Unspecified ,1%

@@ -1,0 +1,301 @@
+,school_name,race,race_score
+0,Murphy Ranch Elementary School,Hispanic ,75%
+1,Murphy Ranch Elementary School,White ,16%
+2,Murphy Ranch Elementary School,Asian ,3%
+3,Murphy Ranch Elementary School,Two or more races ,3%
+4,Murphy Ranch Elementary School,Black ,1%
+5,Murphy Ranch Elementary School,Filipino ,1%
+6,Murphy Ranch Elementary School,Pacific Islander ,<1%
+7,Murphy Ranch Elementary School,Unspecified ,1%
+8,La Serna High School,Hispanic ,80%
+9,La Serna High School,White ,13%
+10,La Serna High School,Asian ,3%
+11,La Serna High School,Filipino ,2%
+12,La Serna High School,Black ,1%
+13,La Serna High School,Two or more races ,<1%
+14,La Serna High School,Pacific Islander ,<1%
+15,La Serna High School,Native American ,<1%
+16,La Serna High School,Unspecified ,1%
+17,Granada Middle School,Hispanic ,77%
+18,Granada Middle School,White ,17%
+19,Granada Middle School,Asian ,3%
+20,Granada Middle School,Two or more races ,1%
+21,Granada Middle School,Black ,1%
+22,Granada Middle School,Filipino ,1%
+23,Granada Middle School,Pacific Islander ,<1%
+24,Leffingwell Elementary School,Hispanic ,68%
+25,Leffingwell Elementary School,White ,25%
+26,Leffingwell Elementary School,Two or more races ,3%
+27,Leffingwell Elementary School,Asian ,3%
+28,Leffingwell Elementary School,Filipino ,1%
+29,Leffingwell Elementary School,Black ,<1%
+30,Ocean View Elementary School,Hispanic ,82%
+31,Ocean View Elementary School,White ,14%
+32,Ocean View Elementary School,Two or more races ,1%
+33,Ocean View Elementary School,Asian ,1%
+34,Ocean View Elementary School,Filipino ,1%
+35,Ocean View Elementary School,Black ,1%
+36,Ocean View Elementary School,Native American ,<1%
+37,Meadow Green Elementary School,Hispanic ,71%
+38,Meadow Green Elementary School,White ,16%
+39,Meadow Green Elementary School,Asian ,7%
+40,Meadow Green Elementary School,Filipino ,2%
+41,Meadow Green Elementary School,Two or more races ,2%
+42,Meadow Green Elementary School,Black ,2%
+43,Mill Elementary School,Hispanic ,94%
+44,Mill Elementary School,White ,2%
+45,Mill Elementary School,Asian ,1%
+46,Mill Elementary School,Two or more races ,1%
+47,Mill Elementary School,Filipino ,<1%
+48,Mill Elementary School,Unspecified ,2%
+49,East Whittier Middle School,Hispanic ,90%
+50,East Whittier Middle School,White ,6%
+51,East Whittier Middle School,Asian ,1%
+52,East Whittier Middle School,Two or more races ,1%
+53,East Whittier Middle School,Filipino ,1%
+54,East Whittier Middle School,Black ,1%
+55,East Whittier Middle School,Native American ,<1%
+56,East Whittier Middle School,Pacific Islander ,<1%
+57,Evergreen Elementary School,Hispanic ,97%
+58,Evergreen Elementary School,White ,2%
+59,Evergreen Elementary School,Asian ,<1%
+60,Evergreen Elementary School,Two or more races ,<1%
+61,Evergreen Elementary School,Native American ,<1%
+62,Evergreen Elementary School,Unspecified ,1%
+63,Hillview Middle School,Hispanic ,89%
+64,Hillview Middle School,White ,7%
+65,Hillview Middle School,Filipino ,2%
+66,Hillview Middle School,Black ,1%
+67,Hillview Middle School,Two or more races ,1%
+68,Hillview Middle School,Asian ,<1%
+69,Hillview Middle School,Pacific Islander ,<1%
+70,Mulberry Elementary School,Hispanic ,91%
+71,Mulberry Elementary School,White ,4%
+72,Mulberry Elementary School,Filipino ,1%
+73,Mulberry Elementary School,Two or more races ,1%
+74,Mulberry Elementary School,Pacific Islander ,1%
+75,Mulberry Elementary School,Black ,1%
+76,Mulberry Elementary School,Asian ,<1%
+77,Mulberry Elementary School,Native American ,<1%
+78,Mulberry Elementary School,Unspecified ,1%
+79,Ada S. Nelson Elementary School,Hispanic ,96%
+80,Ada S. Nelson Elementary School,White ,1%
+81,Ada S. Nelson Elementary School,Asian ,1%
+82,Ada S. Nelson Elementary School,Black ,1%
+83,Ada S. Nelson Elementary School,Filipino ,<1%
+84,Ada S. Nelson Elementary School,Unspecified ,1%
+85,Rancho-Starbuck Intermediate School,Hispanic ,66%
+86,Rancho-Starbuck Intermediate School,White ,25%
+87,Rancho-Starbuck Intermediate School,Asian ,4%
+88,Rancho-Starbuck Intermediate School,Black ,2%
+89,Rancho-Starbuck Intermediate School,Two or more races ,1%
+90,Rancho-Starbuck Intermediate School,Filipino ,1%
+91,Rancho-Starbuck Intermediate School,Pacific Islander ,<1%
+92,Rancho-Starbuck Intermediate School,Native American ,<1%
+93,Rancho-Starbuck Intermediate School,Unspecified ,1%
+94,Daniel Phelan Elementary School,Hispanic ,96%
+95,Daniel Phelan Elementary School,White ,2%
+96,Daniel Phelan Elementary School,Two or more races ,1%
+97,Daniel Phelan Elementary School,Asian ,<1%
+98,Daniel Phelan Elementary School,Black ,<1%
+99,Daniel Phelan Elementary School,Native American ,<1%
+100,Daniel Phelan Elementary School,Unspecified ,1%
+101,California High School,Hispanic ,90%
+102,California High School,White ,6%
+103,California High School,Filipino ,2%
+104,California High School,Asian ,1%
+105,California High School,Pacific Islander ,<1%
+106,California High School,Black ,<1%
+107,California High School,Native American ,<1%
+108,California High School,Two or more races ,<1%
+109,California High School,Unspecified ,1%
+110,Pioneer High School,Hispanic ,96%
+111,Pioneer High School,White ,1%
+112,Pioneer High School,Black ,1%
+113,Pioneer High School,Filipino ,1%
+114,Pioneer High School,Asian ,<1%
+115,Pioneer High School,Pacific Islander ,<1%
+116,Pioneer High School,Unspecified ,1%
+117,Ceres Elementary School,Hispanic ,91%
+118,Ceres Elementary School,White ,5%
+119,Ceres Elementary School,Two or more races ,2%
+120,Ceres Elementary School,Filipino ,1%
+121,Ceres Elementary School,Black ,1%
+122,Ceres Elementary School,Asian ,<1%
+123,Orchard Dale Elementary School,Hispanic ,86%
+124,Orchard Dale Elementary School,White ,9%
+125,Orchard Dale Elementary School,Two or more races ,2%
+126,Orchard Dale Elementary School,Filipino ,1%
+127,Orchard Dale Elementary School,Black ,1%
+128,Orchard Dale Elementary School,Asian ,1%
+129,Orchard Dale Elementary School,Native American ,<1%
+130,Scott Avenue Elementary School,Hispanic ,76%
+131,Scott Avenue Elementary School,White ,17%
+132,Scott Avenue Elementary School,Asian ,3%
+133,Scott Avenue Elementary School,Two or more races ,1%
+134,Scott Avenue Elementary School,Black ,1%
+135,Scott Avenue Elementary School,Filipino ,1%
+136,Scott Avenue Elementary School,Pacific Islander ,<1%
+137,Scott Avenue Elementary School,Unspecified ,1%
+138,Aeolian Elementary School,Hispanic ,96%
+139,Aeolian Elementary School,White ,2%
+140,Aeolian Elementary School,Asian ,1%
+141,Aeolian Elementary School,Black ,1%
+142,Aeolian Elementary School,Two or more races ,<1%
+143,Wallen L. Andrews Elementary School,Hispanic ,86%
+144,Wallen L. Andrews Elementary School,White ,4%
+145,Wallen L. Andrews Elementary School,Asian ,2%
+146,Wallen L. Andrews Elementary School,Filipino ,2%
+147,Wallen L. Andrews Elementary School,Two or more races ,1%
+148,Wallen L. Andrews Elementary School,Black ,1%
+149,Wallen L. Andrews Elementary School,Native American ,1%
+150,Wallen L. Andrews Elementary School,Unspecified ,3%
+151,Katherine Edwards Middle School,Hispanic ,95%
+152,Katherine Edwards Middle School,White ,1%
+153,Katherine Edwards Middle School,Black ,1%
+154,Katherine Edwards Middle School,Two or more races ,1%
+155,Katherine Edwards Middle School,Native American ,<1%
+156,Katherine Edwards Middle School,Pacific Islander ,<1%
+157,Katherine Edwards Middle School,Asian ,<1%
+158,Katherine Edwards Middle School,Unspecified ,2%
+159,Christian Sorensen Elementary School,Hispanic ,93%
+160,Christian Sorensen Elementary School,White ,3%
+161,Christian Sorensen Elementary School,Asian ,1%
+162,Christian Sorensen Elementary School,Black ,<1%
+163,Christian Sorensen Elementary School,Pacific Islander ,<1%
+164,Christian Sorensen Elementary School,Unspecified ,3%
+165,Whittier High School,Hispanic ,93%
+166,Whittier High School,White ,4%
+167,Whittier High School,Black ,1%
+168,Whittier High School,Filipino ,1%
+169,Whittier High School,Two or more races ,1%
+170,Whittier High School,Asian ,<1%
+171,Whittier High School,Native American ,<1%
+172,Whittier High School,Pacific Islander ,<1%
+173,La Colima Elementary School,Hispanic ,91%
+174,La Colima Elementary School,White ,5%
+175,La Colima Elementary School,Black ,2%
+176,La Colima Elementary School,Filipino ,1%
+177,La Colima Elementary School,Two or more races ,1%
+178,La Colima Elementary School,Asian ,1%
+179,La Colima Elementary School,Native American ,<1%
+180,La Colima Elementary School,Pacific Islander ,<1%
+181,Jordan Elementary School,Hispanic ,78%
+182,Jordan Elementary School,White ,17%
+183,Jordan Elementary School,Asian ,2%
+184,Jordan Elementary School,Two or more races ,1%
+185,Jordan Elementary School,Filipino ,1%
+186,Jordan Elementary School,Unspecified ,1%
+187,Longfellow Elementary School,Hispanic ,90%
+188,Longfellow Elementary School,White ,4%
+189,Longfellow Elementary School,Black ,1%
+190,Longfellow Elementary School,Native American ,1%
+191,Longfellow Elementary School,Two or more races ,1%
+192,Longfellow Elementary School,Asian ,<1%
+193,Longfellow Elementary School,Filipino ,<1%
+194,Longfellow Elementary School,Unspecified ,3%
+195,Orange Grove Elementary School,Hispanic ,92%
+196,Orange Grove Elementary School,White ,3%
+197,Orange Grove Elementary School,Two or more races ,1%
+198,Orange Grove Elementary School,Pacific Islander ,1%
+199,Orange Grove Elementary School,Asian ,1%
+200,Orange Grove Elementary School,Black ,<1%
+201,Orange Grove Elementary School,Unspecified ,2%
+202,West Whittier Elementary School,Hispanic ,95%
+203,West Whittier Elementary School,White ,1%
+204,West Whittier Elementary School,Black ,1%
+205,West Whittier Elementary School,Two or more races ,1%
+206,West Whittier Elementary School,Asian ,<1%
+207,West Whittier Elementary School,Filipino ,<1%
+208,West Whittier Elementary School,Unspecified ,2%
+209,Laurel Elementary School,Hispanic ,92%
+210,Laurel Elementary School,White ,5%
+211,Laurel Elementary School,Filipino ,1%
+212,Laurel Elementary School,Asian ,1%
+213,Laurel Elementary School,Two or more races ,<1%
+214,Laurel Elementary School,Black ,<1%
+215,Laurel Elementary School,Unspecified ,1%
+216,Carmela Elementary School,Hispanic ,98%
+217,Carmela Elementary School,White ,1%
+218,Carmela Elementary School,Black ,<1%
+219,Carmela Elementary School,Filipino ,<1%
+220,Carmela Elementary School,Unspecified ,1%
+221,Loma Vista Elementary School,Hispanic ,97%
+222,Loma Vista Elementary School,White ,2%
+223,Loma Vista Elementary School,Black ,1%
+224,Loma Vista Elementary School,Filipino ,1%
+225,Loma Vista Elementary School,Pacific Islander ,<1%
+226,Howard J. Mckibben Elementary School,Hispanic ,89%
+227,Howard J. Mckibben Elementary School,White ,6%
+228,Howard J. Mckibben Elementary School,Black ,2%
+229,Howard J. Mckibben Elementary School,Filipino ,2%
+230,Howard J. Mckibben Elementary School,Asian ,1%
+231,Howard J. Mckibben Elementary School,Two or more races ,<1%
+232,Walter F. Dexter Middle School,Hispanic ,87%
+233,Walter F. Dexter Middle School,White ,5%
+234,Walter F. Dexter Middle School,Black ,1%
+235,Walter F. Dexter Middle School,Filipino ,1%
+236,Walter F. Dexter Middle School,Two or more races ,1%
+237,Walter F. Dexter Middle School,Asian ,<1%
+238,Walter F. Dexter Middle School,Pacific Islander ,<1%
+239,Walter F. Dexter Middle School,Unspecified ,5%
+240,Lou Henry Hoover Elementary School,Hispanic ,90%
+241,Lou Henry Hoover Elementary School,White ,5%
+242,Lou Henry Hoover Elementary School,Two or more races ,2%
+243,Lou Henry Hoover Elementary School,Filipino ,1%
+244,Lou Henry Hoover Elementary School,Native American ,<1%
+245,Lou Henry Hoover Elementary School,Black ,<1%
+246,Lou Henry Hoover Elementary School,Unspecified ,2%
+247,Lydia Jackson Elementary School,Hispanic ,88%
+248,Lydia Jackson Elementary School,White ,6%
+249,Lydia Jackson Elementary School,Black ,1%
+250,Lydia Jackson Elementary School,Asian ,<1%
+251,Lydia Jackson Elementary School,Filipino ,<1%
+252,Lydia Jackson Elementary School,Native American ,<1%
+253,Lydia Jackson Elementary School,Unspecified ,5%
+254,Lake Marie Elementary School,Hispanic ,95%
+255,Lake Marie Elementary School,White ,2%
+256,Lake Marie Elementary School,Black ,1%
+257,Lake Marie Elementary School,Native American ,<1%
+258,Lake Marie Elementary School,Asian ,<1%
+259,Lake Marie Elementary School,Filipino ,<1%
+260,Lake Marie Elementary School,Two or more races ,<1%
+261,Lake Marie Elementary School,Unspecified ,2%
+262,Los Altos Elementary School,Hispanic ,97%
+263,Los Altos Elementary School,White ,2%
+264,Los Altos Elementary School,Asian ,1%
+265,Los Altos Elementary School,Two or more races ,<1%
+266,Los Altos Elementary School,Black ,<1%
+267,Los Altos Elementary School,Filipino ,<1%
+268,Richard L. Graves Middle School,Hispanic ,95%
+269,Richard L. Graves Middle School,White ,3%
+270,Richard L. Graves Middle School,Filipino ,1%
+271,Richard L. Graves Middle School,Asian ,<1%
+272,Richard L. Graves Middle School,Black ,<1%
+273,Richard L. Graves Middle School,Native American ,<1%
+274,Richard L. Graves Middle School,Unspecified ,1%
+275,Sierra Vista High (Alternative) School,Hispanic ,89%
+276,Sierra Vista High (Alternative) School,White ,8%
+277,Sierra Vista High (Alternative) School,Asian ,1%
+278,Sierra Vista High (Alternative) School,Filipino ,1%
+279,Sierra Vista High (Alternative) School,Unspecified ,1%
+280,Whittier Area Community Day School,Hispanic ,82%
+281,Whittier Area Community Day School,Two or more races ,9%
+282,Whittier Area Community Day School,White ,9%
+283,Whittier Independent Study,Hispanic ,100%
+284,El Camino High (Continuation) School,Hispanic ,86%
+285,El Camino High (Continuation) School,White ,5%
+286,El Camino High (Continuation) School,Filipino ,2%
+287,El Camino High (Continuation) School,Black ,2%
+288,El Camino High (Continuation) School,Asian ,1%
+289,El Camino High (Continuation) School,Pacific Islander ,1%
+290,El Camino High (Continuation) School,Two or more races ,1%
+291,El Camino High (Continuation) School,Unspecified ,2%
+292,Frontier High (Continuation) School,Hispanic ,89%
+293,Frontier High (Continuation) School,White ,8%
+294,Frontier High (Continuation) School,Black ,1%
+295,Frontier High (Continuation) School,Asian ,1%
+296,Frontier High (Continuation) School,Native American ,<1%
+297,Frontier High (Continuation) School,Filipino ,<1%
+298,Frontier High (Continuation) School,Two or more races ,<1%
+299,Frontier High (Continuation) School,Unspecified ,1%

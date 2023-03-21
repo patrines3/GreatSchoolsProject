@@ -1,0 +1,641 @@
+,school_name,city,lat,lon,altitude
+0,Cleveland Elementary School,Lakewood,33.84413263636364,-118.10669806060606,0.0
+1,Odyssey Stem Academy,Lakewood,33.857026688246584,-118.1476788566359,0.0
+2,Stephen Foster Elementary School,Lakewood,33.8580752,-118.1309086,0.0
+3,Gompers K-8,Lakewood,33.85228920275071,-118.12304118714862,0.0
+4,Holmes Elementary School,Lakewood,33.8495001,-118.14789454999999,0.0
+5,Macarthur Elementary School,Lakewood,33.839603016067954,-118.11458674004835,0.0
+6,Madison Elementary School,Lakewood,33.838556660582746,-118.15879148745206,0.0
+7,Intensive Learning Center,Lakewood,33.85726227272727,-118.13704954545454,0.0
+8,Palms Elementary School,Lakewood,33.842414,-118.06627475,0.0
+9,Riley Elementary School,Lakewood,33.843944175057544,-118.15290837798759,0.0
+10,Aloha Elementary School,Lakewood,33.83512817118265,-118.08412585572931,0.0
+11,Artesia High School,Lakewood,33.845984638119866,-118.07415922600411,0.0
+12,Willow Elementary School,Lakewood,33.84429228571429,-118.0833919387755,0.0
+13,Esther Lindstrom Elementary School,Lakewood,33.86157705,-118.10977310857925,0.0
+14,Mayfair High School,Lakewood,33.862722,-118.116812,0.0
+15,Lakewood High School,Lakewood,33.83783373443825,-118.12314879613113,0.0
+16,Melbourne (Ella P.) Elementary School,Lakewood,33.83599371468603,-118.0675883141315,0.0
+17,Craig Williams Elementary School,Lakewood,33.867218638066966,-118.13374764272938,0.0
+18,Hoover Middle School,Lakewood,33.83980566441134,-118.15146396915337,0.0
+19,Tutor Time Child Care Learning Center,Lakewood,33.8602379,-118.1466302,0.0
+20,Aloha Head Start-State Pre-School,Lakewood,33.83512817118265,-118.08412585572931,0.0
+21,Mothers At Work Children's Center,Lakewood,33.85666327969541,-118.13386226187959,0.0
+22,Educare Preschool,Lakewood,33.836216,-118.125029,0.0
+23,Educare Preschool & Kindergarten,Lakewood,33.859035536306266,-118.11971428144662,0.0
+24,Smith's Family Day Care,Lakewood,33.86030230471136,-118.11115333609871,0.0
+25,Buena Vista High School,Lakewood,33.857246,-118.14714,0.0
+26,Riley Child Development Center,Lakewood,33.843944175057544,-118.15290837798759,0.0
+27,Weingart-Lakewood Ymca,Lakewood,33.8313484,-118.0849102,0.0
+28,Covenant Kids Pre-School,Lakewood,33.83711284292853,-118.06773482450491,0.0
+29,Ymca Glb Madison Site,Lakewood,33.838556660582746,-118.15879148745206,0.0
+30,Spectrum Center- Long Beach Elementary,Lakewood,33.839603016067954,-118.11458674004835,0.0
+31,St. Pancratius Parish School,Lakewood,33.8590728,-118.149209,0.0
+32,Saint Joseph High School,Lakewood,33.860896229000936,-118.11678590972001,0.0
+33,St. Timothy Lutheran School,Lakewood,33.84153368093977,-118.11609755765394,0.0
+34,Whitney High School,Cerritos,33.8777826,-118.05355453821169,0.0
+35,Wittmann (Helen) Elementary School,Cerritos,33.878112,-118.057171,0.0
+36,Carmenita Middle School,Cerritos,33.88195092307693,-118.04563461538461,0.0
+37,Cerritos Elementary School,Cerritos,33.8650147,-118.0411752,0.0
+38,Cerritos High School,Cerritos,33.86575815151515,-118.06590183838384,0.0
+39,Gonsalves (Joe A.) Elementary School,Cerritos,33.87863704081633,-118.04128189795918,0.0
+40,Leal (Frank C.) Elementary School,Cerritos,33.8610743877551,-118.05668863265306,0.0
+41,Nixon (Patricia) Elementary School,Cerritos,33.852771,-118.07646,0.0
+42,Stowers(Cecil B.) Elementary School,Cerritos,33.8764334872129,-118.04749864999766,0.0
+43,Bragg Elementary School,Cerritos,33.8561773,-118.08948485309236,0.0
+44,Carver (Charles J.) Elementary School,Cerritos,33.856216,-118.068866,0.0
+45,Gahr (Richard) High School,Cerritos,33.87487315,-118.09635804744637,0.0
+46,Tetzlaff (Martin B.) Middle School,Cerritos,33.84619126339967,-118.06887051531696,0.0
+47,Haskell (Pliny Fisk) Middle School,Cerritos,33.84809565,-118.08785740960866,0.0
+48,Juarez (Benito) Elementary School,Cerritos,33.87451293877551,-118.07888342857143,0.0
+49,ABC Secondary (Alternative) School,Cerritos,33.88195092307693,-118.04563461538461,0.0
+50,Kindercare Learning Center,Cerritos,33.86178879424042,-118.04635771717254,0.0
+51,Tracy (Wilbur) High (Continuation) School,Cerritos,33.87893981642205,-118.07201366210751,0.0
+53,Fecc Children Academy,Cerritos,,,
+54,Cerritos Lane Pre-School,Cerritos,33.84676549267495,-118.07981242605578,0.0
+55,Joy Pre-School,Cerritos,33.85352875962015,-118.06576613303913,0.0
+56,Calvarys Cross Chapel Pre-School,Cerritos,33.879225,-118.09117,0.0
+57,Creative Care,Cerritos,33.864532594377515,-118.06360908032129,0.0
+58,Willow Head Start,Cerritos,33.879699292929295,-118.07259387878787,0.0
+59,Palms State Pre-School,Cerritos,33.879699292929295,-118.07259387878787,0.0
+60,Melbourne Head Start-State Ps,Cerritos,33.879699292929295,-118.07259387878787,0.0
+61,Concordia Lutheran School,Cerritos,33.86606710426147,-118.04119647118803,0.0
+62,Valley Christian School System,Cerritos,33.87285463265306,-118.10309740816326,0.0
+63,Yellow Brick Road Academy,Cerritos,33.87392993877551,-118.0915397755102,0.0
+64,Broman School,Cerritos,33.87215324489796,-118.04351540816327,0.0
+65,Heritage Park Tot Lot,Cerritos,33.86066344966443,-118.06527724161074,0.0
+66,Carlyle Family Day Care,Cerritos,33.87662416582915,-118.05565923115577,0.0
+67,Sonshine Ps-Cerritos Ch Nzrne,Cerritos,33.84617153755472,-118.07137028292532,0.0
+68,Valley Christian Schools,Cerritos,33.87285463265306,-118.10309740816326,0.0
+69,Valley Christian High School,Cerritos,33.8705181,-118.103092621271,0.0
+70,Valley Christian Middle School,Cerritos,33.86720865,-118.10292309493684,0.0
+71,Concordia Lutheran Preschool,Cerritos,33.86606710426147,-118.04119647118803,0.0
+72,Prisk Elementary School,LongBeach,33.80066231313131,-118.11564026262626,0.0
+73,Eunice Sato Academy Of Math & Science,LongBeach,33.78093842211055,-118.10607595477386,0.0
+74,Gant Elementary School,LongBeach,33.7911433,-118.1139438,0.0
+75,Henry K-8,LongBeach,33.825590530612246,-118.11033934693877,0.0
+76,Kettering Elementary School,LongBeach,33.772684636937214,-118.10653710746142,0.0
+77,Los Cerritos Elementary School,LongBeach,33.82800471428571,-118.19893128571428,0.0
+78,Naples Elementary School,LongBeach,33.755602,-118.128319,0.0
+79,Newcomb Academy,LongBeach,33.81598096969697,-118.07900006060606,0.0
+80,Fremont Elementary School,LongBeach,33.7713651,-118.14481850925826,0.0
+81,Tincher Preparatory School,LongBeach,33.78746842698447,-118.10063395286585,0.0
+82,IVA - Intellectual Virtues Academy Middle School,LongBeach,33.822273,-118.186548,0.0
+83,Ernest S. McBride Sr. High School,LongBeach,33.82952345454545,-118.09667039393939,0.0
+84,Helen Keller Middle,LongBeach,33.825025714285715,-118.09540842857142,0.0
+85,Burcham Elementary School,LongBeach,33.822129751632986,-118.12295941166533,0.0
+86,Carver Elementary School,LongBeach,33.8145261,-118.1292675,0.0
+87,Cubberley K-8,LongBeach,33.815256,-118.102591,0.0
+88,Emerson Parkside Academy,LongBeach,33.80377736734694,-118.10538102040817,0.0
+89,Longfellow Elementary School,LongBeach,33.826825,-118.182565,0.0
+90,Lowell Elementary School,LongBeach,33.764243,-118.131933,0.0
+91,Marshall Academy Of The Arts,LongBeach,33.81872840865371,-118.11755814310621,0.0
+92,Rogers Middle School,LongBeach,33.767058899999995,-118.13209767382298,0.0
+93,Addams Elementary School,LongBeach,33.8534986744186,-118.19163337209302,0.0
+94,Bancroft Middle School,LongBeach,33.839651,-118.129302,0.0
+95,Birney Elementary School,LongBeach,33.81172909183673,-118.20044218367347,0.0
+96,Bixby Elementary School,LongBeach,33.7992643,-118.1326464,0.0
+97,Franklin Classical Middle School,LongBeach,33.77367078571429,-118.17807,0.0
+98,Garfield Elementary School,LongBeach,33.797886,-118.21316277551021,0.0
+99,Hughes Middle School,LongBeach,33.82821910204082,-118.18055406122448,0.0
+100,Lincoln Elementary School,LongBeach,33.78086852173913,-118.17693082608696,0.0
+101,Millikan High School,LongBeach,33.80665821917808,-118.11167436986301,0.0
+102,Stanford Middle School,LongBeach,33.79962892279282,-118.11878932398982,0.0
+103,Twain Elementary School,LongBeach,33.839667795918366,-118.13464553061223,0.0
+104,Dooley Elementary School,LongBeach,33.8476931,-118.19503809242768,0.0
+105,Bryant Elementary School,LongBeach,33.7839912,-118.14509615482608,0.0
+106,Burbank Elementary School,LongBeach,33.77217138383838,-118.16433103030303,0.0
+107,Burnett Elementary School,LongBeach,33.79719816666667,-118.18571974999999,0.0
+108,Edison Elementary School,LongBeach,33.77384478787879,-118.20068737373738,0.0
+109,Grant Elementary School,LongBeach,33.87089589393939,-118.17696588888889,0.0
+110,Hamilton Middle School,LongBeach,33.8809089,-118.17961269619536,0.0
+111,International Elementary School,LongBeach,33.775459,-118.190978,0.0
+112,Jefferson Leadership Academies School,LongBeach,33.793881,-118.17414633165829,0.0
+113,Lafayette Elementary School,LongBeach,33.80157910204082,-118.19597879591836,0.0
+114,Lee Elementary School,LongBeach,33.787389081632654,-118.15882679591837,0.0
+115,Muir K-8,LongBeach,33.81259959183674,-118.2109965510204,0.0
+116,Polytechnic High School,LongBeach,33.788167,-118.184923,0.0
+117,Robinson Academy,LongBeach,33.80711997959184,-118.19236804081633,0.0
+118,Roosevelt Elementary School,LongBeach,33.78674041248928,-118.18658092182329,0.0
+119,Stevenson Elementary School,LongBeach,33.77308778723404,-118.18379555319149,0.0
+120,Wilson High School,LongBeach,33.778884,-118.140702,0.0
+121,King Elementary School,LongBeach,33.87436079591837,-118.20173644897959,0.0
+122,Powell Academy For Success,LongBeach,33.864769933568375,-118.20344235551119,0.0
+123,Chavez Elementary School,LongBeach,33.769779,-118.20136784554828,0.0
+124,Lindsey Academy,LongBeach,33.848430244474265,-118.199078,0.0
+125,Rancho Dominguez Preparatory,LongBeach,33.814504,-118.2155288,0.0
+126,Harte Elementary School,LongBeach,33.85881530320839,-118.17173563088168,0.0
+127,McKinley Elementary School,LongBeach,33.878797326530616,-118.15990946938776,0.0
+128,Webster Elementary School,LongBeach,33.81622255102041,-118.21590402040816,0.0
+129,Willard Elementary School,LongBeach,33.779951653061225,-118.155764,0.0
+130,Richard D. Browning High,LongBeach,33.79659342857143,-118.154466,0.0
+131,Barton Elementary School,LongBeach,33.7992643,-118.1326464,0.0
+132,Hudson K-8,LongBeach,33.79960078571428,-118.21968342857143,0.0
+133,Lindbergh Middle School,LongBeach,33.854431657894736,-118.18047868421053,0.0
+134,Mann Elementary School,LongBeach,33.765463857142855,-118.15359328571428,0.0
+135,Stephens Middle School,LongBeach,33.80906108163265,-118.21837085714286,0.0
+136,Washington Middle School,LongBeach,33.78482397297297,-118.19496064864865,0.0
+137,Captain Raymond Collins School,LongBeach,33.8665695,-118.1484234128977,0.0
+138,Cabrillo High School,LongBeach,33.793669,-118.2158158,0.0
+139,Jordan High School,LongBeach,33.87344,-118.186019,0.0
+140,Whittier Elementary School,LongBeach,33.78912006122449,-118.17208344897959,0.0
+141,Intellectual Virtues Academy,LongBeach,33.788174,-118.189472,0.0
+142,Pacific Baptist School,LongBeach,33.81772371428571,-118.19796402040816,0.0
+143,Marina Montessori School,LongBeach,33.799813,-118.141154,0.0
+144,Parkridge Private School,LongBeach,33.82239838461538,-118.18945292307693,0.0
+145,United Faith Community,LongBeach,33.860011,-118.1856252,0.0
+146,Laurelcrest School for Girls,LongBeach,33.8197952,-118.1209908,0.0
+147,Zinsmeyer Academy,LongBeach,33.7826043,-118.1562024,0.0
+148,Oakwood Academy,LongBeach,33.82854415384615,-118.189254,0.0
+149,Westerly School of Long Beach,LongBeach,33.8084329318865,-118.15708992102412,0.0
+150,Educational Partnership High School,LongBeach,33.78967004081633,-118.19495887755102,0.0
+151,Montessori School-Eureka,LongBeach,,,
+152,First Baptist Church School,LongBeach,33.779096,-118.192277,0.0
+153,City Christian School,LongBeach,33.77405267346939,-118.16514848979591,0.0
+154,Renaissance High School For The Arts,LongBeach,33.776628,-118.19025677777778,0.0
+155,New Life Christian Academy,LongBeach,33.872280181818184,-118.16876181818182,0.0
+156,Giant Steps Children's Center,LongBeach,33.880925,-118.155765,0.0
+157,Montessori Academy Of Long Beach,LongBeach,33.82903842842721,-118.11645971948904,0.0
+158,Edgewater Pre-School,LongBeach,33.7886839,-118.0940163,0.0
+159,Select Community Day (Secondary) School,LongBeach,33.79650887755102,-118.13627857142858,0.0
+161,Long Beach Unified School District Rop,LongBeach,33.8031943,-118.1259771,0.0
+162,Bethany Baptist Elementary School,LongBeach,33.7961587,-118.1340178,0.0
+163,Southwestern Longview Private,LongBeach,33.8447434,-118.1991493,0.0
+164,Bixby Oaks Children Center,LongBeach,33.827881727272725,-118.18925481818182,0.0
+165,Kindercare Learning Center #1626 Belmont Shore,LongBeach,,,
+166,Oak Tree Children's Center,LongBeach,33.78821608333333,-118.152302,0.0
+167,Long Beach Montessori School,LongBeach,,,
+168,Artesian Well Preparatory Academy,LongBeach,33.79232961616162,-118.09829391919192,0.0
+169,Open Door Enrichment,LongBeach,33.87419530612245,-118.2019693265306,0.0
+170,Carousel School,LongBeach,33.7712505,-118.16746538926925,0.0
+171,Bay Shore School,LongBeach,33.76171640428699,-118.1333715535777,0.0
+172,Rainbow Christian Academy,LongBeach,33.827505333333335,-118.19190433333334,0.0
+173,Seaside Academy,LongBeach,33.867450000000005,-118.17381575,0.0
+174,St. Barnabas Elementary School,LongBeach,33.83107389285715,-118.17726864285714,0.0
+175,Montessori School Eureka,LongBeach,,,
+176,Child & Family Center,LongBeach,33.783723408270355,-118.12223378917277,0.0
+177,Play House North,LongBeach,,,
+178,Simply Kare Child Development Center,LongBeach,33.78303590322581,-118.14578851612903,0.0
+179,Creative Arts Day Care,LongBeach,33.784890346938774,-118.17208632653062,0.0
+180,Whittier Child Development Center,LongBeach,33.788869530612246,-118.17381830612246,0.0
+181,Ole' King Cole Develop Center,LongBeach,33.775259857142856,-118.16956457142858,0.0
+182,Montessori Children's House 1,LongBeach,33.7886839,-118.0940163,0.0
+183,West Child Development Center,LongBeach,33.795914,-118.21553607692307,0.0
+184,Garfield Child Development Center-School Age,LongBeach,33.797886,-118.21316277551021,0.0
+185,Young Horizons-N Pacific,LongBeach,33.801161816326534,-118.19360791836735,0.0
+186,Grace Lutheran Christian Pre-School,LongBeach,33.8190358,-118.1966151,0.0
+187,Palo Verde Christian Ch Nursery,LongBeach,33.80297738890566,-118.10800221966385,0.0
+188,Magnolia Children Club-Comp Dev,LongBeach,33.80339469387755,-118.19380865306123,0.0
+189,First Baptist Pre-School & Kindergarten,LongBeach,33.8317353,-118.2161678,0.0
+190,Great Beginnings,LongBeach,33.77179143478261,-118.15616286956522,0.0
+191,A Love 4 Learning Academy,LongBeach,33.77068984615385,-118.18756846153846,0.0
+192,Long Beach Kiddy Kollege,LongBeach,33.81311816666666,-118.1892485,0.0
+193,Muir Child Development Center,LongBeach,33.81264093877551,-118.21119463265306,0.0
+194,Belmont Heights Un Methodist Nursery,LongBeach,33.768987,-118.1465318,0.0
+195,Sander's Teeny Tiny Pre-School,LongBeach,33.81587183333333,-118.215547,0.0
+196,Mann Child Development Center,LongBeach,,,
+197,Christian Life Learning Center,LongBeach,33.819106,-118.193639,0.0
+198,YMCA-GLB-Lutheran Church Site,LongBeach,33.8317353,-118.2161678,0.0
+199,Bundle Of Joy Day Care 4,LongBeach,33.82187224489796,-118.18925669387755,0.0
+200,Kidworks Children Center,LongBeach,33.76453379591837,-118.14992338775511,0.0
+201,Singing Fountains Pre-School,LongBeach,33.823616428571434,-118.07191426530612,0.0
+202,Our Saviour's Lutheran Pre-School,LongBeach,33.770922125,-118.16449887499999,0.0
+203,New Horizons Christian School,LongBeach,33.824473510204086,-118.18511275510204,0.0
+204,Ca Heights Un Methodist Chldrn Center,LongBeach,33.82566255102041,-118.17640363265306,0.0
+205,Early Childhood Ed Center,LongBeach,33.80434439337101,-118.14859360950665,0.0
+206,Grace 1st Presbyterian Pre-School,LongBeach,33.7725796,-118.1030718,0.0
+207,Long Beach Day Nursery-West,LongBeach,33.82923386133863,-118.12526740644697,0.0
+208,Long Beach Day Nursery-East,LongBeach,33.7882985,-118.1242461,0.0
+209,Phases-Early Comp Learning Child Care Center,LongBeach,,,
+210,W Anaheim Head Start Center,LongBeach,33.7825941,-118.2013524,0.0
+211,Bethany Lutheran Pre-School,LongBeach,33.84115146938775,-118.13371481632653,0.0
+212,Twain Child Development Center,LongBeach,,,
+213,Lakewood Vlg Community Church Nursery,LongBeach,33.839937393939394,-118.13506393939393,0.0
+214,Fairfield Family YMCA,LongBeach,33.846064262626264,-118.1850435050505,0.0
+215,Young Horizons Child Development Center,LongBeach,33.773045,-118.185122,0.0
+216,Burbank Child Development Center,LongBeach,33.772286434343435,-118.16429806060606,0.0
+217,Young Horizons-De Las Flores,LongBeach,33.773045,-118.185122,0.0
+218,Stevenson Child Development Center,LongBeach,,,
+219,Carver Child Development Center,LongBeach,,,
+220,Lakewood Children Pre-School,LongBeach,,,
+221,Discovery Pre-School At Laucc,LongBeach,33.7886839,-118.0940163,0.0
+222,Long Beach Christian Day Care Center,LongBeach,33.819213250000004,-118.12301626478252,0.0
+223,YMCA Creative Beginnings,LongBeach,33.858533,-118.18587,0.0
+224,St Luke's Christian Pre-School,LongBeach,33.819212699999994,-118.12171346837917,0.0
+225,Educational Enrichment Child Care Center,LongBeach,33.85868243243243,-118.17717464864864,0.0
+226,Isabel Patterson Child Development Center,LongBeach,33.7886839,-118.0940163,0.0
+227,Seaside Child Development Center,LongBeach,33.778401099999996,-118.1187786366041,0.0
+228,Los Altos United Methodist Pre-School,LongBeach,33.80316089795918,-118.11575204081633,0.0
+229,Parkcrest Early Childhood School,LongBeach,33.829427495138745,-118.11645762898135,0.0
+230,Abundance Of Life Day Care Center,LongBeach,33.8511254,-118.1954013,0.0
+231,North Child Development Center,LongBeach,,,
+232,Edison Child Day Care Center,LongBeach,33.775251,-118.20025702040816,0.0
+233,Grant Child Development Center,LongBeach,,,
+234,Christ Lutheran Pre-School,LongBeach,,,
+235,Elby's Tots,LongBeach,,,
+236,Carmelitos Child Development Center,LongBeach,33.848351707412036,-118.18180032961476,0.0
+237,Little Light House Ed Child Care Center,LongBeach,33.7779958,-118.1924688,0.0
+238,Montessori On Elm,LongBeach,33.77842914285714,-118.18755688571429,0.0
+239,First Lutheran Pre-School,LongBeach,33.778533055555556,-118.18624788888889,0.0
+240,Comprehensive Child Development Center,LongBeach,33.80371591836735,-118.19380804081634,0.0
+241,Muila Area 2,LongBeach,33.787449775510204,-118.17636214285714,0.0
+242,Oaktree Preschool And Kindergarten,LongBeach,33.78821608333333,-118.152302,0.0
+243,Oakwood Academy - Bixby Campus,LongBeach,33.82854415384615,-118.189254,0.0
+244,Maple Village Waldorf School,LongBeach,33.773589242424244,-118.14559175757576,0.0
+245,Beach High-Intensive Learning Program,LongBeach,33.80444830884199,-118.14923883556462,0.0
+246,Reid High School,LongBeach,33.79746985,-118.21822514343401,0.0
+247,Seat of Wisdom Academy,LongBeach,33.820153128185154,-118.06371781467179,0.0
+248,True Social Justice Academy,LongBeach,33.7784313877551,-118.18511395918367,0.0
+249,First Lutheran Christian Preschool,LongBeach,33.7784313877551,-118.18511395918367,0.0
+250,Bayshore Co-op Preschool,LongBeach,33.753063694305716,-118.13143286058946,0.0
+251,Barton Child Development Center,LongBeach,,,
+252,Williams Family Child Care Center,LongBeach,33.857737829591656,-118.17286717402521,0.0
+253,Galicia Child Care Center,LongBeach,,,
+254,Herrera Family Child Care Center,LongBeach,33.79720489795918,-118.2009014489796,0.0
+255,Abilty First-Newport Mesa Prog,LongBeach,33.80422014281854,-118.14883849794379,0.0
+256,Ymca-Grtr Lb Los Altos Brnch,LongBeach,33.787438183673466,-118.12353730612244,0.0
+257,Ymca Glb-Longfellow,LongBeach,33.846064262626264,-118.1850435050505,0.0
+258,Silver Bear Pre-School,LongBeach,33.775253,-118.159901,0.0
+259,St Lucy Pre-School,LongBeach,33.79925919649507,-118.21642625353351,0.0
+260,Webster Head Start,LongBeach,33.81622255102041,-118.21590402040816,0.0
+261,Bundle Of Joy Day Care Center,LongBeach,33.844305999999996,-118.19304128571429,0.0
+262,Mccraw Family Day Care Center,LongBeach,33.877623132363375,-118.1987126551823,0.0
+263,St Pauls Lutheran Pre-School,LongBeach,33.7982491,-118.10801409999999,0.0
+264,St Clair Child Care Center,LongBeach,33.858494,-118.157558,0.0
+265,Elliott Day Care,LongBeach,33.79417395544198,-118.09160213649552,0.0
+266,Tucker Head Start,LongBeach,33.7969194,-118.1763422,0.0
+267,Rainbow In A Cloud Cdc,LongBeach,,,
+268,Cdi Head Start -Small World,LongBeach,,,
+269,Cdi Head Start-Randle,LongBeach,,,
+270,Cdi Head Start-Bethune,LongBeach,,,
+271,Cdi Head Start-Mary B Henry,LongBeach,,,
+272,Cdi Head Start-Cesar Chavez,LongBeach,,,
+273,Cdi Head Start-Bright Stars,LongBeach,,,
+274,Elm Street Head Start,LongBeach,33.78435244897959,-118.18809173469388,0.0
+275,Sesson Child Care Center,LongBeach,33.856832749999995,-118.19224224999999,0.0
+276,Ices Education Child Care Center-Birney,LongBeach,,,
+277,Little Owl Pre-School,LongBeach,33.81927393877551,-118.18635446938777,0.0
+278,Un Mundo De Amigos Pre-School,LongBeach,33.7851192195122,-118.18928619512195,0.0
+279,Kidz R Us Community Child Care Center,LongBeach,33.85444210526316,-118.178725,0.0
+280,Fun 2 Learn Pre-School,LongBeach,33.86306311764706,-118.1771995882353,0.0
+281,Creative Minds Christian Academy,LongBeach,33.870526999999996,-118.17724899999999,0.0
+282,All About Kids Learning Center,LongBeach,33.87452945762712,-118.17640425423728,0.0
+283,Bixby Oaks Child Care Center,LongBeach,33.827881727272725,-118.18925481818182,0.0
+284,Open Door Enrichment Child Care Center,LongBeach,33.87419530612245,-118.2019693265306,0.0
+285,The Education Corps,LongBeach,33.8229023877551,-118.1851156122449,0.0
+286,Clear Passage Educational Center,LongBeach,33.78469651724138,-118.18078290804598,0.0
+287,Success Work College Preparatory Academy,LongBeach,33.841987461538466,-118.19218911538461,0.0
+288,Spectrum Center- Long Beach Middle Market Street,LongBeach,33.854431657894736,-118.18047868421053,0.0
+289,St Cornelius Elementary,LongBeach,33.7882985,-118.1242461,0.0
+290,United Faith Community Day Care Center,LongBeach,33.87996178947368,-118.20433778947368,0.0
+291,Bethany Baptist Elementary,LongBeach,33.7961587,-118.1340178,0.0
+292,Holy Innocents Elementary School,LongBeach,33.802687,-118.193612,0.0
+293,St. Anthony Elementary School,LongBeach,33.773004388888886,-118.18127016666666,0.0
+294,St. Athanasius Elementary School,LongBeach,33.854219,-118.1859597,0.0
+295,St. Cornelius Elementary School,LongBeach,33.7882985,-118.1242461,0.0
+296,Saint Anthony High School,LongBeach,33.774805487804876,-118.18229,0.0
+297,St. Joseph Elementary School,LongBeach,33.803149,-118.11084,0.0
+298,St. Cyprian Elementary School,LongBeach,,,
+299,St. Maria Goretti,LongBeach,33.82940215870572,-118.10767491159234,0.0
+300,Our Lady Of Refuge,LongBeach,33.7992976,-118.1300753,0.0
+301,St. Lucy School,LongBeach,33.79925919649507,-118.21642625353351,0.0
+302,Bethany Lutheran School,LongBeach,,,
+303,Grace Christian School,LongBeach,33.822273,-118.186548,0.0
+304,Nazarene Christian,LongBeach,33.7947118,-118.1356613,0.0
+305,Lakewood Christian Schools,LongBeach,,,
+306,Gethsemane Baptist Christian,LongBeach,33.865364953488374,-118.1774108139535,0.0
+307,Los Altos Brethren School,LongBeach,,,
+308,Montessori Children's House School,LongBeach,33.7886839,-118.0940163,0.0
+309,Creative Arts School,LongBeach,33.784890346938774,-118.17208632653062,0.0
+310,Regency High School,LongBeach,33.78359232653061,-118.19775573469389,0.0
+311,Albert Baxter Elementary School,Bellflower,33.900315,-118.138301,0.0
+312,Bellflower High School,Bellflower,33.893060750000004,-118.11518600532531,0.0
+313,Thomas Jefferson Elementary School,Bellflower,33.869755732568,-118.11988614293962,0.0
+314,Ramona Elementary School,Bellflower,33.883029957037536,-118.13523557418753,0.0
+315,Ernie Pyle Elementary School,Bellflower,33.900564,-118.116535,0.0
+316,Washington Elementary School,Bellflower,33.89307377551021,-118.1271118367347,0.0
+317,Frank E. Woodruff Elementary School,Bellflower,33.89450474659017,-118.12191341790958,0.0
+318,Adventist Union School,Bellflower,33.892626270072995,-118.1360688540146,0.0
+319,Southland Christian Academy,Bellflower,33.8896514,-118.1173982,0.0
+320,Christ Heritage Academy,Bellflower,33.88928226013335,-118.11621593958357,0.0
+321,Bellflower Alternative Education Center,Bellflower,33.882826652770866,-118.13403694014696,0.0
+323,Somerset Continuation High School,Bellflower,33.88302687972691,-118.13752385931518,0.0
+324,Creative Day Academy,Bellflower,33.87285,-118.145346,0.0
+325,Veritas Christian School,Bellflower,33.88788629411765,-118.13683588235294,0.0
+326,Whole Heart Christian Academy,Bellflower,,,
+327,Ymca-Los Cerritos,Bellflower,33.8896514,-118.1173982,0.0
+328,Golden West Pre-School,Bellflower,33.88928226013335,-118.11621593958357,0.0
+329,Ernie Pyle Head Start Center,Bellflower,33.882826652770866,-118.13403694014696,0.0
+330,Bellflower United Methodist Pre-School,Bellflower,33.899968413860236,-118.12540949281474,0.0
+331,First Christian Church Dc,Bellflower,,,
+332,Thomas Jefferson Ex Head Start,Bellflower,33.87113396153846,-118.12127592307692,0.0
+333,Whitewood Child Development Center,Bellflower,33.882826652770866,-118.13403694014696,0.0
+334,Kaicyna Christian Academy,Bellflower,33.87280906060606,-118.10967918181818,0.0
+335,Quality Childrens Srvc Head Start,Bellflower,33.88215118181818,-118.13230072727272,0.0
+336,St Dominic Savio Pre-K,Bellflower,33.90969298510723,-118.124228338165,0.0
+337,Cannan Pre-School,Bellflower,33.876502,-118.133782,0.0
+338,Craig Williams Head Start,Bellflower,33.9079907,-118.1340899,0.0
+339,Washington Head Start,Bellflower,33.89307377551021,-118.1271118367347,0.0
+340,Child Development Head Start Program,Bellflower,33.882128039496656,-118.13607861587148,0.0
+341,Abercrombie Day Care,Bellflower,33.89483621762662,-118.1200409275482,0.0
+342,Collins Sunnyday Child Care Center,Bellflower,33.901286666666664,-118.14056341666667,0.0
+343,Las Flores Home Education Independent Study Academy,Bellflower,33.87673554535628,-118.12006159167085,0.0
+344,C.L. Prep Academy,Bellflower,,,
+345,California Advancing Pathways For Students In Los Angeles County,Bellflower,33.882826652770866,-118.13403694014696,0.0
+346,Spectrumcenter Schools Downey,Bellflower,33.903780745377695,-118.12786642308872,0.0
+347,St. Bernard School,Bellflower,33.878365333333335,-118.12835100000001,0.0
+348,St. Dominic Savio,Bellflower,33.90969298510723,-118.124228338165,0.0
+349,St. John Bosco High School,Bellflower,33.9074185,-118.12543273913043,0.0
+350,Wonderland School,Bellflower,33.872806499999996,-118.11169000000001,0.0
+351,Valley Christian Elementary School,Bellflower,33.8750130902921,-118.11280394571837,0.0
+352,Lakeland Elementary School,Norwalk,33.9306166,-118.07638147421181,0.0
+353,Lakeside Middle School,Norwalk,33.92717945,-118.09670819649725,0.0
+354,William W. Orr Elementary School,Norwalk,33.921071999999995,-118.0853650464544,0.0
+355,Studebaker Elementary School,Norwalk,33.9248978,-118.10043212019524,0.0
+356,Julia B. Morrison Elementary School,Norwalk,33.90928459776122,-118.08667481403081,0.0
+357,Cresson Elementary School,Norwalk,33.9289443,-118.0853582831349,0.0
+358,Paddison Elementary School,Norwalk,33.919819849999996,-118.07562760672195,0.0
+359,D. D. Johnston Elementary School,Norwalk,33.90842225,-118.09567895268762,0.0
+360,Los Alisos Middle School,Norwalk,33.896191,-118.0851745409478,0.0
+361,Norwalk High School,Norwalk,33.906727000000004,-118.09080491504479,0.0
+362,Corvallis Middle School,Norwalk,33.905573149999995,-118.09747012634719,0.0
+363,John Dolland Elementary School,Norwalk,33.8936496,-118.0650127301331,0.0
+364,Anna M. Glazier Elementary School,Norwalk,33.8937796,-118.10230313718282,0.0
+365,Loretta Lampton Elementary School,Norwalk,33.896000400000005,-118.09449797210519,0.0
+366,New River Elementary School,Norwalk,33.9081317,-118.10169049508153,0.0
+367,John H. Nuffer Elementary School,Norwalk,33.89556175,-118.0880453825969,0.0
+368,Arturo Sanchez Elementary School,Norwalk,33.88318865,-118.07847936302313,0.0
+369,Earl E. Edmondson Elementary School,Norwalk,33.893285,-118.07715337768448,0.0
+370,John H. Glenn High School,Norwalk,33.907775650000005,-118.05314261565144,0.0
+371,Thomas B. Moffitt Elementary School,Norwalk,33.90829875,-118.06548625452604,0.0
+372,Nettie L. Waite Middle School,Norwalk,33.899946150000005,-118.07201998109836,0.0
+373,New Harvest Christian,Norwalk,33.9167743,-118.090893,0.0
+375,Joyland Pre School,Norwalk,33.91628190837762,-118.08160505290319,0.0
+376,Three In One Christian Academy,Norwalk,33.892937,-118.094434,0.0
+377,Pioneer Baptist Elementary School,Norwalk,33.924967602655364,-118.08162171339693,0.0
+378,Cerritos College Child Development Center,Norwalk,33.8831622,-118.0973395187587,0.0
+379,Sunny Day Pre-School,Norwalk,33.90203233333334,-118.08792766666667,0.0
+380,Tlc Christian Learning Center,Norwalk,33.90942,-118.087517,0.0
+381,Trinity Lutheran Pre-School,Norwalk,33.9267300018328,-118.09907204001048,0.0
+382,Bit Of Heaven Day Care,Norwalk,33.90817972501476,-118.07305294068416,0.0
+383,St Linus Pre-Kindergarten,Norwalk,33.904845333333334,-118.05540033333334,0.0
+384,Kiddie Kampus Pre-School,Norwalk,33.89342462520387,-118.1001019154061,0.0
+385,Ramona Head Start/State Preschool,Norwalk,33.89845493443725,-118.05088562177727,0.0
+386,Cesar Chavez Elementary School,Norwalk,33.903440599999996,-118.07506653030214,0.0
+387,Glazier Aft School Program,Norwalk,33.89088019387755,-118.08227723469388,0.0
+388,New Harvest Christian School,Norwalk,,,
+389,Pacific Ohana Acdemy,Norwalk,33.91085034693878,-118.07624506122448,0.0
+390,St. John Of God Elementary School,Norwalk,33.906022255102044,-118.08246243877551,0.0
+391,St. Linus Elementary School,Norwalk,33.904845333333334,-118.05540033333334,0.0
+392,Nazarene Christian School,Norwalk,33.8940239,-118.09905077117614,0.0
+393,Trinity Christian School,Norwalk,33.92782006666667,-118.09907676666666,0.0
+394,Norwalk Christian School,Norwalk,33.93068556949905,-118.08162833611175,0.0
+395,Trouble Free Educational School,Norwalk,33.888874816326535,-118.08225769387755,0.0
+396,Norwalk Christian Academy,Norwalk,33.90990545454546,-118.0979589090909,0.0
+397,Grace Christian Schools,Norwalk,33.915314005484824,-118.08387651379033,0.0
+398,Pioneer Baptist School,Norwalk,33.924967602655364,-118.08162171339693,0.0
+399,Rio San Gabriel Elementary School,Downey,33.93884497770698,-118.11205372089123,0.0
+400,Unsworth Elementary School,Downey,33.955794,-118.106539,0.0
+401,Williams Elementary School,Downey,33.94486309436093,-118.1487251528242,0.0
+402,Griffiths Middle School,Downey,33.959377149999995,-118.13062931826737,0.0
+403,Old River Elementary School,Downey,33.938802189063914,-118.1550998739574,0.0
+404,Price Elementary School,Downey,33.96052625,-118.12880987557537,0.0
+405,Alameda Elementary School,Downey,33.92535114710575,-118.1361568321016,0.0
+406,West Middle School,Downey,33.93886266172369,-118.15505955885088,0.0
+407,Downey High School,Downey,33.93868354103946,-118.12913720043008,0.0
+408,Doty Middle School,Downey,33.941835,-118.112126,0.0
+409,Lewis Elementary School,Downey,33.91012493939394,-118.1252637979798,0.0
+410,Rio Hondo Elementary School,Downey,33.951109836734695,-118.13933097959183,0.0
+411,Sussman Middle School,Downey,33.9225758,-118.1386196,0.0
+412,Warren High School,Downey,33.934878607296305,-118.14065299141814,0.0
+413,Gallatin Elementary School,Downey,33.95510730946324,-118.11727620038802,0.0
+414,Imperial Elementary School,Downey,33.92395416326531,-118.14705716326532,0.0
+415,Ward Elementary School,Downey,33.914783346938776,-118.14165830612245,0.0
+416,Gauldin Elementary School,Downey,33.92080515,-118.11973185,0.0
+417,Creative Beginnings,Downey,33.94396963265306,-118.1355977755102,0.0
+418,Los Angeles County Special Education School,Downey,33.91459895918368,-118.12955842857143,0.0
+419,Ready Set Grow,Downey,,,
+421,Los Angeles County Rop School,Downey,33.91459895918368,-118.12955842857143,0.0
+422,"Around The World Children Center, Inc.",Downey,33.94288769648254,-118.1197655631804,0.0
+423,Rancho Los Amigos Children's Center,Downey,33.92419927735986,-118.15933348916913,0.0
+424,Creative Beginnings School,Downey,33.94506691836735,-118.13610904081632,0.0
+425,Immaculate Heart Academy,Downey,33.946933565042826,-118.12174120984295,0.0
+426,Sundance Academy,Downey,33.940269,-118.157071,0.0
+427,Carpenter Elementary School,Downey,33.90984351447698,-118.13247899780299,0.0
+428,Columbus (Christopher) High,Downey,33.91996996614607,-118.11657,0.0
+429,Downey United Methodist Nursery School,Downey,33.94373,-118.130495,0.0
+430,Kirkwood Christan School,Downey,33.941820390321794,-118.1267532075154,0.0
+431,Downey Family YMCA Pre-School,Downey,33.936816,-118.135311,0.0
+432,Christ Lutheran Child Care Center,Downey,33.956503687499996,-118.135683125,0.0
+433,Maria Montessori House of Children School,Downey,,,
+434,Children's Station Day Care,Downey,,,
+435,Children's Academy Of Success,Downey,33.944124099999996,-118.132902213851,0.0
+436,Creative Beginnings Elementary,Downey,33.94396963265306,-118.1355977755102,0.0
+437,Our Lady of Perpetual Help,Downey,,,
+438,Phoenix Academy Residential Education Center,Downey,33.91459895918368,-118.12955842857143,0.0
+439,Sunlite Pre-School,Downey,,,
+440,Clark Center Head Start,Downey,33.914544,-118.1328418,0.0
+441,Desert Reign Pre-School,Downey,33.93042195234479,-118.12788187402992,0.0
+442,Children's Academy-Success,Downey,33.944124099999996,-118.132902213851,0.0
+443,Downey Christian Elc,Downey,33.95173551515151,-118.13147312121212,0.0
+444,Creative Beginnings Pre-School,Downey,33.94506691836735,-118.13610904081632,0.0
+445,Woodruff Academy,Downey,33.91996996614607,-118.11657,0.0
+446,Downey Christian School,Downey,33.95180954199031,-118.12634371707645,0.0
+447,Kirkwood Christian Schools,Downey,33.93128745403135,-118.11343220748037,0.0
+448,Rancho Los Amigos Childrens Center,Downey,33.92419927735986,-118.15933348916913,0.0
+449,St Pius X - St. Matthias High School,Downey,33.9102829,-118.142041,0.0
+450,St. Raymond Elementary School,Downey,33.92773451020408,-118.1490730612245,0.0
+451,Our Lady Of Perpetual Help Elementary School,Downey,33.94818278547062,-118.12818173080144,0.0
+452,St. Pius X - St. Matthias Academy,Downey,,,
+453,St. Mark's Elementary School,Downey,33.94977578124727,-118.1267964683689,0.0
+454,Montessori Children's Academy,Downey,33.94731600834274,-118.146377406546,0.0
+455,Calvary Chapel Christian,Downey,33.91523572450506,-118.11654756093948,0.0
+456,Murphy Ranch Elementary School,Whittier,33.94746325,-117.98707725850889,0.0
+457,La Serna High School,Whittier,33.954667,-117.999174,0.0
+458,Granada Middle School,Whittier,33.924618949999996,-118.00273224423071,0.0
+459,Leffingwell Elementary School,Whittier,33.93872315,-117.99478004947846,0.0
+460,Ocean View Elementary School,Whittier,33.960055499999996,-118.01775575930962,0.0
+461,Meadow Green Elementary School,Whittier,33.9212752,-117.98928872020834,0.0
+462,Mill Elementary School,Whittier,34.0145371,-118.04186789384678,0.0
+463,East Whittier Middle School,Whittier,33.95528725,-118.01549823032795,0.0
+464,Evergreen Elementary School,Whittier,33.96391675,-118.04208368067651,0.0
+465,Hillview Middle School,Whittier,33.93369115,-118.00772050479588,0.0
+466,Mulberry Elementary School,Whittier,33.9450930456646,-118.0307467839028,0.0
+467,Ada S. Nelson Elementary School,Whittier,33.971165305466556,-118.07523035838469,0.0
+468,Rancho-Starbuck Intermediate School,Whittier,33.92004285,-117.97863219974235,0.0
+469,Daniel Phelan Elementary School,Whittier,33.97961065,-118.07067707110048,0.0
+470,California High School,Whittier,33.944311963673016,-118.02416991180452,0.0
+471,Pioneer High School,Whittier,33.96913682466891,-118.07815354685087,0.0
+472,Ceres Elementary School,Whittier,33.935951849999995,-118.02869957561963,0.0
+473,Orchard Dale Elementary School,Whittier,33.93586105,-118.00713244864914,0.0
+474,Scott Avenue Elementary School,Whittier,33.92655645,-118.00112195682104,0.0
+475,Aeolian Elementary School,Whittier,33.96620247407944,-118.06963612738345,0.0
+476,Wallen L. Andrews Elementary School,Whittier,,,
+477,Katherine Edwards Middle School,Whittier,33.98288075,-118.06884954917055,0.0
+478,Christian Sorensen Elementary School,Whittier,33.9782703,-118.05954612539365,0.0
+479,Whittier High School,Whittier,33.97921041320545,-118.04403927053096,0.0
+480,La Colima Elementary School,Whittier,33.928833350000005,-118.02062546293966,0.0
+481,Jordan Elementary School,Whittier,33.93794965,-117.97986394276097,0.0
+482,Longfellow Elementary School,Whittier,33.9879125,-118.05017533333333,0.0
+483,Orange Grove Elementary School,Whittier,33.9960959,-118.0607388777081,0.0
+484,West Whittier Elementary School,Whittier,33.9875074,-118.06844865946294,0.0
+485,Laurel Elementary School,Whittier,33.955902800000004,-118.03637495610357,0.0
+486,Carmela Elementary School,Whittier,33.930803600000004,-118.04772585803678,0.0
+487,Loma Vista Elementary School,Whittier,,,
+488,Howard J. Mckibben Elementary School,Whittier,33.937558100000004,-118.03796530269858,0.0
+489,Walter F. Dexter Middle School,Whittier,33.991706,-118.05434679999999,0.0
+490,Lou Henry Hoover Elementary School,Whittier,33.9846949,-118.02942555469643,0.0
+491,Lydia Jackson Elementary School,Whittier,33.9677611,-118.03388868192863,0.0
+492,Lake Marie Elementary School,Whittier,33.943060450000004,-118.04817942695482,0.0
+493,Los Altos Elementary School,Whittier,33.91990215,-118.0325411235452,0.0
+494,Richard L. Graves Middle School,Whittier,33.943060450000004,-118.04817942695482,0.0
+495,The Broadoaks Childrens School,Whittier,,,
+496,Whittier Christian School - Maybrook,Whittier,33.9272017852349,-117.97831765771812,0.0
+497,Whittier Christian Schools - Satellite,Whittier,33.98222106373024,-118.04075375956113,0.0
+498,Sierra Vista High (Alternative) School,Whittier,33.9553097,-118.0407584,0.0
+499,Remnant Christian School,Whittier,33.97438090909091,-118.03254286363637,0.0
+500,East Whittier Umc Preschool,Whittier,33.945565775510204,-118.00548704081633,0.0
+501,Broadoaks School Of Whittier College,Whittier,33.980202757135004,-118.0308103383108,0.0
+502,Family Life Center Christian Academy,Whittier,33.97844121600463,-118.07553537313333,0.0
+503,Joyland Nursery School and Kindergarten,Whittier,33.9845112,-118.0326689,0.0
+504,Lad N Lassie Preschool,Whittier,33.986257816326535,-118.04182687755102,0.0
+505,Bumble Bee Christian Learning Center,Whittier,33.94839105867283,-117.97403676644903,0.0
+507,Tri-Cities Rop School,Whittier,33.96913682466891,-118.07815354685087,0.0
+508,Carden Whittier Private School,Whittier,33.927325627629536,-117.98836264209048,0.0
+509,Mulberry Tree Preschool,Whittier,33.96120415286109,-118.02663555611683,0.0
+510,Shepherd Of The Hills Pre-School,Whittier,33.95002258274631,-118.00487904076543,0.0
+511,B'nai Ha Aliyah - Children Of Ascent Academy,Whittier,33.97535178396605,-118.06026694177858,0.0
+512,Painter Avenue Christian,Whittier,,,
+513,Solid Faith Christian School,Whittier,33.99803764647002,-118.0688419766475,0.0
+514,Walker Academy,Whittier,,,
+515,Calvary Chapel Christian School Of Whittier,Whittier,33.98280934596074,-118.03940634550784,0.0
+516,Primanti Montessori School - Whittier,Whittier,,,
+517,Victory Outreach Children's Learning Center,Whittier,33.980627064337966,-118.03958566177863,0.0
+518,Salvation Army Pre-School,Whittier,33.9683189407302,-118.05596830048091,0.0
+519,Salvation Army Sa-Santa Fe Spg,Whittier,33.9683189407302,-118.05596830048091,0.0
+520,Kids & Blocks,Whittier,33.992399,-118.05846028571429,0.0
+521,Hope Lutheran Pre-School,Whittier,,,
+522,Santa Fe Kid Company,Whittier,33.9696834,-118.0611376,0.0
+523,Carmela Children's Center,Whittier,33.9282199,-118.04738833204911,0.0
+524,St. Andrew Lutheran Pre-School,Whittier,33.92837371243877,-118.0187526342561,0.0
+525,Whittier Village CHLDRN's Center,Whittier,33.98079710204082,-118.03465548979591,0.0
+526,Mulberry Tree Pre-School,Whittier,33.96120415286109,-118.02663555611683,0.0
+527,E Whittier Presbyterian Pre-School,Whittier,33.96163507692307,-118.02244165384614,0.0
+528,YMCA School Age-Ceres,Whittier,33.940913550000005,-117.99432856956403,0.0
+529,Rio Hondo Pre-School Lab,Whittier,34.0183853,-118.0338542,0.0
+530,Charo Child Development Center,Whittier,33.99587485,-118.06543829544256,0.0
+531,Whittier Presbyterian Nursery School,Whittier,33.98693004987263,-118.05672063530062,0.0
+532,Ready Set Grow,Whittier,33.98214788888889,-118.03605743434343,0.0
+533,Brethen Pre-School,Whittier,33.970953,-118.07564,0.0
+534,College Avenue Da C,Whittier,33.96404654,-118.02749378,0.0
+535,E Whittier Christian Pre-School,Whittier,33.94333815889634,-118.02671012874875,0.0
+536,Children's Center,Whittier,,,
+537,Whittier KinderCare,Whittier,33.936738451467775,-118.00072655066288,0.0
+538,Whittier Area Community Day School,Whittier,33.99587485,-118.06543829544256,0.0
+539,Whittier Independent Study,Whittier,33.99587485,-118.06543829544256,0.0
+540,El Camino High (Continuation) School,Whittier,33.92111075,-118.01943753483413,0.0
+541,Brighter Beginnings in Child Care,Whittier,,,
+542,Faith Lutheran Church School,Whittier,33.94339965114138,-118.02614044758568,0.0
+543,Carmela Head Start,Whittier,33.92344112244898,-118.04189802040817,0.0
+544,West Whittier Head Start,Whittier,33.9875074,-118.06844865946294,0.0
+545,E Whittier Ymca Dcc,Whittier,33.940913550000005,-117.99432856956403,0.0
+546,Options State Pre-Sch-Laurel,Whittier,33.95485088895725,-118.03555263668439,0.0
+547,Victory Outreach Children's Lc,Whittier,33.980627064337966,-118.03958566177863,0.0
+548,Belaire Little People Pre-School,Whittier,,,
+549,Lesten Call,Whittier,33.9482713,-118.0278587,0.0
+550,Lowell Ymca School Age Cc Site,Whittier,33.927325627629536,-117.98836264209048,0.0
+551,Magnolia Head Start,Whittier,33.988174,-118.052339,0.0
+552,Scott Head Start,Whittier,33.97412118040126,-118.06208720203551,0.0
+553,Gonzalez Head Start,Whittier,33.95065724266605,-118.00777325233146,0.0
+554,Moreno Head Start,Whittier,,,
+555,Frontier High (Continuation) School,Whittier,33.9553097,-118.0407584,0.0
+556,Whittier Montessori School,Whittier,,,
+557,Keystone Montessori Preschool Whittier,Whittier,33.97793289363901,-118.03491834082017,0.0
+558,SHEPHERD CENTER PRE SCHOOL,Whittier,33.95002258274631,-118.00487904076543,0.0
+560,Santa Fe Kids Company of California,Whittier,33.9696834,-118.0611376,0.0
+561,St. Gregory The Great,Whittier,33.93250816669799,-118.03552116097512,0.0
+562,St. Bruno Parish School,Whittier,33.938234,-117.99687449999999,0.0
+563,St. Mary Of The Assumption Elementary School,Whittier,33.9768529967752,-118.04194925783636,0.0
+564,Whittier Friends School,Whittier,33.9806222885906,-118.03490030872483,0.0
+565,Oralingua School North Whittier,Whittier,33.97793289363901,-118.03491834082017,0.0
+566,Faith Lutheran Church & School,Whittier,33.94339965114138,-118.02614044758568,0.0
+567,Trinity Lutheran School,Whittier,33.991705,-118.051503,0.0
+568,Brethren Christian Schools Pk-8,Whittier,33.970953,-118.07564,0.0
+569,Hadley,Whittier,33.982837571428576,-118.05224142857142,0.0
+570,Primanti Montessori School,Whittier,33.93356710218434,-117.976623,0.0
+571,Whittier Adventist Elm School,Whittier,33.956041323869435,-118.02222792839719,0.0
+572,Whittier Christian Schools-Newlin,Whittier,33.98222106373024,-118.04075375956113,0.0
+573,Plymouth Christian School,Whittier,33.98874838331883,-118.04881791177394,0.0
+574,Childrens Academy,Whittier,,,
+575,Palm View Christian School,Whittier,33.976843,-118.053952,0.0
+576,Wonder World Pre-School Ii,Whittier,,,
+577,Los Alamitos High School,LosAlamitos,33.81219383853236,-118.07199567916237,0.0
+578,Rossmoor Elementary School,LosAlamitos,33.792975999999996,-118.0763986,0.0
+579,Francis Hopkinson Elementary School,LosAlamitos,33.780993249999995,-118.08839129969797,0.0
+580,Richard Henry Lee Elementary School,LosAlamitos,33.79672265,-118.0817713,0.0
+581,Oak Middle School,LosAlamitos,33.806952538337086,-118.07583081833324,0.0
+582,Jack L. Weaver Elementary School,LosAlamitos,33.790238900000006,-118.0845631,0.0
+583,Los Alamitos Elementary School,LosAlamitos,33.80365881844577,-118.063101,0.0
+584,Sharon Christa Mcauliffe Middle School,LosAlamitos,33.8130355,-118.06285995138164,0.0
+585,Montessori Greenhouse Schools,LosAlamitos,33.8008215,-118.0628240039915,0.0
+586,Belmont Shores Children's Center,LosAlamitos,33.8020736,-118.0599589,0.0
+587,Acme Academy,LosAlamitos,33.8019001,-118.05291928051733,0.0
+588,Cerritos Learning Tree Pre-School,LosAlamitos,33.8020736,-118.0599589,0.0
+589,Los Alamitos Child Development Center,LosAlamitos,33.790238900000006,-118.0845631,0.0
+590,Lil Cottonwood Pre-School,LosAlamitos,,,
+591,Mayflower Pre-School,LosAlamitos,33.80323299663762,-118.06135390035877,0.0
+592,Lil Cottonwd Playgroup,LosAlamitos,,,
+593,Precious Life Infant Dc,LosAlamitos,,,
+594,Belmont Shore Children's Center,LosAlamitos,33.8020736,-118.0599589,0.0
+595,Little Lamb Christian Cc,LosAlamitos,33.8015287,-118.06301523300411,0.0
+596,St. Hedwig Elementary School,LosAlamitos,33.7958183,-118.0749094,0.0
+597,Oxford Academy,Cypress,33.82227465,-118.0425419592904,0.0
+598,Cypress High School,Cypress,33.819542469387756,-118.028031,0.0
+599,Margaret Landell Elementary School,Cypress,33.81976857832428,-118.05452721746526,0.0
+600,Juliet Morris Elementary School,Cypress,33.8231774,-118.034733,0.0
+601,Lexington Junior High School,Cypress,33.8251387,-118.05679923732225,0.0
+602,A. E. Arnold Elementary School,Cypress,33.824704590405915,-118.05460224914582,0.0
+603,Frank Vessels Elementary School,Cypress,33.8123395,-118.0313208,0.0
+604,Clara J. King Elementary School,Cypress,33.8357666,-118.04503035747678,0.0
+605,Alton School,Cypress,33.8135917,-118.03869335015236,0.0
+606,Montessori Children's House,Cypress,33.84202265,-118.05607917288786,0.0
+607,Wisdom Mission School,Cypress,33.82811831428572,-118.03445497142857,0.0
+608,Carousel Pre-School & Dcc,Cypress,33.8118466,-118.03132629999999,0.0
+609,A Child's Adventure Preschool & Day Care Center,Cypress,33.814534699999996,-118.05416334501521,0.0
+610,Oc Kids Day Care,Cypress,33.81442804005038,-118.03841357257288,0.0
+611,Cypress Early Learning Center,Cypress,33.810608349999995,-118.053718136182,0.0
+612,Child's Adventure Day Care,Cypress,33.8143257,-118.0528731140317,0.0
+613,Little School Of The West,Cypress,33.81067545,-118.03799069862944,0.0
+614,Carousel Pre-School & Day Care Ct,Cypress,33.8118466,-118.03132629999999,0.0
+615,Abc Development Pre-School 5,Cypress,33.8367217,-118.04472609999999,0.0
+616,ABC Developmental Pre-School,Cypress,33.824704590405915,-118.05460224914582,0.0
+617,ABC Development Pre-School 3,Cypress,33.8231774,-118.034733,0.0
+618,Abc Development Pre-School 1,Cypress,33.82811745714286,-118.03449868571428,0.0
+619,Cypress Park Community Church's Little School Of The West,Cypress,33.81067545,-118.03799069862944,0.0
+620,Del Sol School,Cypress,33.8135917,-118.03869335015236,0.0
+621,Tutor Time Child Care & Lc,Cypress,33.80807215420836,-118.03054738022664,0.0
+622,Abc Development Pre-School 4,Cypress,33.82767391358155,-118.05617525283057,0.0
+623,Abc Development Pre-School 3,Cypress,33.8231774,-118.034733,0.0
+624,Stepping Stones Learning Center,Cypress,33.8205956,-118.02457744491548,0.0
+625,Miracle Land Preschool,Cypress,33.8109723,-118.0565392117718,0.0
+626,Funshine Christian Preschool,Cypress,33.8102262,-118.0387666,0.0
+627,Miracle Land Child Development Center,Cypress,33.8109723,-118.0565392117718,0.0
+628,St. Irenaeus Parish School,Cypress,33.82833,-118.041389,0.0
+629,Calvary Chapel Christian School Of Cypre,Cypress,33.83132045,-118.04199320746405,0.0
+630,Cypress Montessori Academy,Cypress,33.83709895,-118.04707197888652,0.0
+631,Grace Christian School Of Cypress,Cypress,33.8143257,-118.0528731140317,0.0
+632,Santa Fe High School,SantaFeSprings,33.94012237309031,-118.09086430219068,0.0
+633,Lake Center Middle,SantaFeSprings,33.93781325,-118.08320213071275,0.0
+634,Jersey Avenue Elementary School,SantaFeSprings,33.9533836,-118.0815546634104,0.0
+635,Rancho Santa Gertrudes Elementary School,SantaFeSprings,33.95533145,-118.0807425897953,0.0
+636,Lakeview Elementary School,SantaFeSprings,33.94343155,-118.0878123848368,0.0
+637,Santa Fe Springs Christian School,SantaFeSprings,33.936680571428575,-118.09003381632652,0.0
+638,Family Center,SantaFeSprings,33.94143583160852,-118.07555562561407,0.0
+639,Bloomfield Center Day Care,SantaFeSprings,,,
+640,Plaza de la Raza Head Start Jersey,SantaFeSprings,33.9443622,-118.0878443,0.0
+641,Kidzone Christian Pre-School,SantaFeSprings,,,
+642,Rancho Head Start,SantaFeSprings,33.95583337346098,-118.07973096414138,0.0
+643,Lakeview Child Care Center-Santa Fe Spring,SantaFeSprings,33.946318414687,-118.0839516729738,0.0
+644,St Pius X Parish School,SantaFeSprings,33.934384290887095,-118.081652,0.0
+645,St. Pius X Parish School,SantaFeSprings,33.934384290887095,-118.081652,0.0
+646,St. Paul High School,SantaFeSprings,33.95112903800539,-118.05192487502796,0.0
